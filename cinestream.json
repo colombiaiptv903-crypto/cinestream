@@ -80,11 +80,18 @@
       "category": "Entretenimiento"
     },
     {
+      "name": "Azteca 7 SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png",
+      "url": "	http://45.5.119.43:4000/play/a026/index.m3u8",
+      "category": "Entretenimiento"
+    },
+	    {
       "name": "Azteca 7",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png",
       "url": "http://45.5.119.43:4000/play/a026/index.m3u8",
       "category": "Entretenimiento"
     },
+
     {
       "name": "Win Sports SD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
