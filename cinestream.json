@@ -397,13 +397,13 @@
     {
       "name": "TUDN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/330px-TUDN_Logo.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/228966.ts",
+      "url": "http://45.5.119.43:4000/play/a05q/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "TUDN USA",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/330px-TUDN_Logo.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/228977.ts",
+      "url": "http://190.211.102.42:9999/play/a035/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -415,26 +415,26 @@
     {
       "name": "Bein Sport Latan",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/410465.ts",
+      "url": "http://168.228.44.241:9997/play/a06q/index.m3u8",
       "category": "Deportivo"
     },
 
     {
       "name": "Bein Sports Xtra (US)",
       "logo": "https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-212.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/139889.ts",
+      "url": "http://200.59.188.3:8000/play/a0cm",
       "category": "Deportivo"
     },
     {
       "name": "Sport TV 1 PT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sport_TV_2023.svg/500px-Sport_TV_2023.svg.png",
-      "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/224483.ts",
+      "url": "http://176.65.146.189:8701/play/a09h",
       "category": "Deportivo"
     },
     {
       "name": "Sport-Digital 1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1280px-Sport-Digital.svg.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8",
+      "url": "http://176.65.146.200:8701/play/a09i/index.m3u8",
       "category": "Deportivo"
     },	
     {
@@ -442,23 +442,29 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sportdigital_Fu%C3%9Fball_2_Logo_2023.svg/3840px-Sportdigital_Fu%C3%9Fball_2_Logo_2023.svg.png",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtalfuss/playlist.m3u8",
       "category": "Deportivo"
+    },
+   {
+      "name": "Claro Sports 1 HD (MX)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/330px-Claro_Sports_logo.svg.png",
+      "url": "http://45.189.62.33:8002/play/a0cm/index.m3u8",
+      "category": "Deportivo"
     },	
     {
-      "name": "Claro Sports HD (MX)",
+      "name": "Claro Sports 2 HD (MX)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/330px-Claro_Sports_logo.svg.png",
-      "url": "http://live.btv.mx:2424/stream/278556/smAVz_uhytj5REM-4pYNZbkrcB2",
+      "url": "http://148.230.25.148:8500/play/a0jm/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Arena Sport",
       "logo": "https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png",
-      "url": "http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/527702.ts",
+      "url": "http://46.149.191.219:9114/play/a003",
       "category": "Deportivo"
     },	
 	{
       "name": "ECDF",
       "logo": "https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/1614.ts",
+      "url": "http://181.78.73.64:8000/play/a2bk/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -470,19 +476,19 @@
     {
       "name": "NBA TV (US)",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/330px-NBA_TV.svg.png",
-      "url": "http://23.131.184.195:80/live/Ndnrb948486263bsc/727etsbnd709/381548.ts",
+      "url": "http://37.46.49.14:18010/play/a03e/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Sky sports Es",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/396653.ts",
+      "url": "http://45.5.119.43:4000/play/a05r/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Sky sports Futbol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/265901.ts",
+      "url": "http://37.46.49.14:18010/play/a03d/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -506,19 +512,19 @@
     {
       "name": "Tennis Channel",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png",
-      "url": "http://live.btv.mx:2424/stream/279452/smAVz_uhytj5REM-4pYNZbkrcB2",
+      "url": "http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "TVC Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/117603.ts",
+      "url": "http://38.49.128.38:8000/play/a0mj/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "TVC Deportes HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/187365.ts",
+      "url": "http://200.229.147.142:8000/play/a05g/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -536,7 +542,7 @@
     {
       "name": "UFC",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1280px-UFC_Logo.svg.png",
-      "url": "http://23.131.184.195:80/live/Ndnrb948486263bsc/727etsbnd709/306517.ts",
+      "url": "http://37.46.49.14:18010/play/a03l/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -902,7 +908,7 @@
     {
       "name": "LA KALLE",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/La_Kalle_Colombia_2025_logo.svg/500px-La_Kalle_Colombia_2025_logo.svg.png",
-      "url": "http://23.131.184.195:80/live/Ndnrb948486263bsc/727etsbnd709/69287.ts",
+      "url": "http://190.0.247.38:8000/play/a01z",
       "category": "Musica"
     },
     {
@@ -932,7 +938,7 @@
     {
       "name": "Love Nature",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/250px-Love_Nature_logo_%282025%29.svg.png",
-      "url": "http://live.btv.mx:2424/stream/296574/smAVz_uhytj5REM-4pYNZbkrcB2",
+      "url": "http://209.14.115.253:8000/play/a011/index.m3u8",
       "category": "Documentales"
     },
     {
