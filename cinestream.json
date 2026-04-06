@@ -46,7 +46,7 @@
     {
       "name": "Señal Colombia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/330px-Se%C3%B1al_Colombia_logo.svg.png",
-      "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL8",
+      "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
       "category": "cultura"
     },
     {
