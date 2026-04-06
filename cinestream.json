@@ -140,7 +140,12 @@
       "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
       "category": "Deportivo"
     },
-
+	{
+      "name": "L1 MAX",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/500px-L1MAX-LOGO.svg.png",
+      "url": "http://181.78.73.64:8000/play/a2lc/index.m3u8",
+      "category": "Deportivo"
+    },
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
