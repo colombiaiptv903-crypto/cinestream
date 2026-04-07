@@ -1176,12 +1176,38 @@
       "url": "http://38.211.118.56:50002/play/a072/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
+		{
+      "name": "ZoyTV Plus HD",
+      "logo": "https://i.ibb.co/gMx8nF5h/LOGO-Zoy-TV-Plus.png",
+      "url": "https://tv.zoymilton.com/ZoyPlus/index.m3u8",
+      "category": "Peliculas, Series, Entretenimiento"
+    },
+	{
+      "name": "ZoyTV Turcas HD",
+      "logo": "https://i.ibb.co/TBwL27w8/LOGO-Zoy-TV-Turcas.png",
+      "url": "https://tv.zoymilton.com/ZoyTurcas/index.m3u8",
+      "category": "Peliculas, Series, Entretenimiento"
+    },
+	{
+      "name": "ZoyTV Pitufos HD",
+      "logo": "https://i.ibb.co/hxzjjS7/favicon.png",
+      "url": "https://tv.zoymilton.com/ZoyPitufos/index.m3u8",
+      "category": "Peliculas, Series, Entretenimiento"
+    },
+		{
+      "name": "ZoyTV Radio HQ",
+      "logo": "https://i.ibb.co/hxzjjS7/favicon.png",
+      "url": "https://tv.zoymilton.com/ZoyRadio/index.m3u8",
+      "category": "Peliculas, Series, Entretenimiento"
+    },
+	
 	{
       "name": "Warner Channel",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",
       "url": "http://181.78.8.199:8000/play/a0ia/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
+	
     {
       "name": "Dragon Ball|24/7",
       "logo": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2018/09/dragon_ball_super_16.png?resize=860%2C484&ssl=1",
@@ -1233,7 +1259,7 @@
     {
       "name": "24/7 Los Simpsons",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtd0roGFfNXBQ8pIGYKBEfrKkWGE-OncezA&s",
-      "url": "http://skybeyondplus.mine.nu:25461/live/Chompi00/GFasjM4WEUvm/37014.ts",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8",
       "category": "24/7"
     },
     {
