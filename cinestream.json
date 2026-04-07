@@ -836,13 +836,13 @@
     {
       "name": "History (Latinoamérica)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png",
-      "url": "http://190.60.49.242:4000/play/a0ga/index.m3u8",
+      "url": "http://46.149.191.219:9115/play/a01q",
       "category": "Documentales"
     },
     {
       "name": "History 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/250px-History2_logo_%282022%29.svg.png",
-      "url": "http://190.60.49.242:4000/play/a0g7/index.m3u8",
+      "url": "http://190.0.247.38:8000/play/a00x",
       "category": "Documentales"
     },
     {
