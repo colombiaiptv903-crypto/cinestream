@@ -123,9 +123,9 @@
       "category": "Deportivo"
     },
     {
-      "name": "Win Sports + HD",
+      "name": "Win Sports + Plus",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/281395.ts",
+      "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
       "category": "Deportivo"
     },
     {
@@ -161,26 +161,14 @@
     {
       "name": "Directv Sports Col",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "http://smarterstv99.dyndns.tv:25461/live/Chestertv8/XDaUaZ68wTxY/125646.ts",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "http://rlatinop.com:8880/live/arturo710745/rUtZwW72tMcj/120550.ts", 
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2", 
 	  "category": "Deportivo"
-    },
-    {
-      "name": "Directv Sports 2",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "http://rlatinop.com:8880/live/arturo710745/rUtZwW72tMcj/167733.ts",
-      "category": "Deportivo"
-    },
-    {
-      "name": "Directv Sports 2",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "http://rlatinop.com:8880/live/arturo710745/rUtZwW72tMcj/428667.ts",
-      "category": "Deportivo"
     },
     {
       "name": "Directv Sports + SD",
@@ -189,9 +177,9 @@
       "category": "Deportivo"
     },
     {
-      "name": "Directv Sports + SD",
+      "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
       "category": "Deportivo"
     },	
 	    {
@@ -263,7 +251,7 @@
     {
       "name": "ESPN 2 (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
-      "url": "http://181.78.14.26:4000/play/a05c/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
       "category": "Deportivo"
     },
     {
@@ -418,6 +406,12 @@
       "url": "http://168.228.44.241:9997/play/a06q/index.m3u8",
       "category": "Deportivo"
     },
+    {
+      "name": "Bein Sport Español",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png",
+      "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
+      "category": "Deportivo"
+    },
 
     {
       "name": "Bein Sports Xtra (US)",
@@ -426,23 +420,24 @@
       "category": "Deportivo"
     },
     {
-      "name": "Sport TV 1 PT",
+      "name": "Sport TV 1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sport_TV_2023.svg/500px-Sport_TV_2023.svg.png",
-      "url": "http://176.65.146.189:8701/play/a09h",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv",
       "category": "Deportivo"
     },
-    {
-      "name": "Sport-Digital 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1280px-Sport-Digital.svg.png",
-      "url": "http://176.65.146.200:8701/play/a09i/index.m3u8",
-      "category": "Deportivo"
-    },	
-    {
-      "name": "Sport-Digital 2",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sportdigital_Fu%C3%9Fball_2_Logo_2023.svg/3840px-Sportdigital_Fu%C3%9Fball_2_Logo_2023.svg.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtalfuss/playlist.m3u8",
+   {
+      "name": "Sport TV 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv2",
       "category": "Deportivo"
     },
+   {
+      "name": "Sport TV 3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1920px-Sport_TV3_%282023%29.svg.png",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv3",
+      "category": "Deportivo"
+    },
+   
    {
       "name": "Claro Sports 1 HD (MX)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/330px-Claro_Sports_logo.svg.png",
@@ -461,10 +456,24 @@
       "url": "http://46.149.191.219:9114/play/a003",
       "category": "Deportivo"
     },	
+    {
+      "name": "Premiere 1",
+      "logo": "https://canchatv.online/res/icons/premiere-1.png",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere1",
+      "category": "Deportivo"
+    },	
+    {
+      "name": "Azteca Deportes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
+      "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes",
+      "category": "Deportivo"
+    },	
+	
+	
 	{
       "name": "ECDF",
       "logo": "https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png",
-      "url": "http://181.78.73.64:8000/play/a2bk/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
       "category": "Deportivo"
     },
     {
