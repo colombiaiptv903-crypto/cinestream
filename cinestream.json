@@ -1034,6 +1034,13 @@
       "category": "Peliculas, Series, Entretenimiento"
     },
     {
+      "name": "Space",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/330px-SpaceLogo.svg.png",
+      "url": "http://38.41.8.1:8000/play/a0rk",
+      "category": "Peliculas, Series, Entretenimiento"
+    },	
+	
+    {
       "name": "Star Channel",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/330px-Star_Channel_2020.svg.png",
       "url": "http://181.78.8.199:8000/play/a0i9/index.m3u8",
