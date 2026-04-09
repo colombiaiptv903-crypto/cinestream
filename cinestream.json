@@ -58,13 +58,13 @@
     {
       "name": "RCN HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://190.60.49.242:4000/play/a0pg/index.m3u8",
+      "url": "http://181.78.8.199:8000/play/a0az/index.m3u8",
       "category": "Entretenimiento"
     },
-   {
-      "name": "RCN HD",
+   { 
+      "name": "RCN Mas",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://181.78.8.199:8000/play/a0az/index.m3u8",
+      "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
       "category": "Entretenimiento"
     },
 	 {
@@ -143,7 +143,7 @@
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "http://rlatinop.com:8880/live/arturo710745/rUtZwW72tMcj/167962.ts",
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
       "category": "Deportivo"
     },
     {
@@ -177,6 +177,12 @@
       "category": "Deportivo"
     },	
 	    {
+      "name": "ESPN Deportes SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
+      "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
+      "category": "Deportivo"
+    },
+	{
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
