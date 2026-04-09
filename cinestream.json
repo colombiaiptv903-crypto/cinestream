@@ -101,13 +101,7 @@
     {
       "name": "Win Sports HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a0cc/index.m3u8",
-      "category": "Deportivo"
-    },
-	    {
-      "name": "Win Sports HD",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a06v/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
       "category": "Deportivo"
     },
     {
@@ -188,12 +182,7 @@
       "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
       "category": "Deportivo"
     },
-    {
-      "name": "ESPN Deportes",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/360941.ts",
-      "category": "Deportivo"
-    },	
+
 	{
       "name": "Espn 1 (MEX)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
@@ -227,19 +216,19 @@
     {
       "name": "Espn 1 (Chi)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://38.224.231.47:8000/play/a03s/index.m3u8",
+      "url": "http://181.78.7.90:12500/play/a0dr/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Premium (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
-      "url": "http://8.242.175.210:8000/play/a09d/index.m3u8",
+      "url": "http://181.78.7.90:12500/play/a0m1/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Premium (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
-      "url": "http://181.78.7.90:12500/play/a0m1/index.m3u8",
+      "url": "http://181.78.7.90:12500/play/a0du/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -264,13 +253,13 @@
     {
       "name": "ESPN 3 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
-      "url": "http://190.60.49.242:4000/play/a070/index.m3u8",
+      "url": "http://181.78.7.90:12500/play/a0nb/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "ESPN 3 (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
-      "url": "http://181.78.14.26:4000/play/a062/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
       "category": "Deportivo"
     },
     {
@@ -288,19 +277,19 @@
     {
       "name": "ESPN 4 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",
-      "url": "http://181.78.14.26:4000/play/a03w/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
       "category": "Deportivo"
     },
     {
       "name": "ESPN 4 (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",
-      "url": "http://181.78.14.26:4000/play/a0bw/index.m3u8",
+      "url": "hhttp://181.78.7.90:12500/play/a0n2/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "ESPN 4 (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",
-      "url": "http://38.250.190.45:8000/play/a0d6/index.m3u8",
+      "url": "http://181.78.7.90:12500/play/a0ea/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -318,7 +307,7 @@
     {
       "name": "ESPN 5 (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/330px-ESPN_5_logo.svg.png",
-      "url": "http://181.78.14.26:4000/play/a06b/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
       "category": "Deportivo"
     },
     {
@@ -336,7 +325,7 @@
     {
       "name": "ESPN 6 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",
-      "url": "http://190.60.49.242:4000/play/a0dq/index.m3u8",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn6",
       "category": "Deportivo"
     },
     {
@@ -354,7 +343,7 @@
     {
       "name": "ESPN 7",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",
-      "url": "http://181.78.14.26:4000/play/a042/index.m3u8",
+      "url": https://la14hd.com/vivo/canales.php?stream=espn7",
       "category": "Deportivo"
     },
     {
@@ -363,25 +352,6 @@
       "url": "http://181.78.14.26:4000/play/a06e/index.m3u8",
       "category": "Deportivo"
     },
-    {
-      "name": "SPORTV 1 HD (BRA)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/1280px-Sport_TV1_%282023%29.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/353083.ts",
-      "category": "Deportivo"
-    },
-    {
-      "name": "SPORTV 2 HD (BRA)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1280px-Sport_TV2_%282023%29.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/353085.ts",
-      "category": "Deportivo"
-    },	
-    {
-      "name": "SPORTV 3 HD (BRA)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1280px-Sport_TV3_%282023%29.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/353084.ts",
-      "category": "Deportivo"
-    },
-
     {
       "name": "TUDN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/330px-TUDN_Logo.svg.png",
@@ -468,7 +438,6 @@
       "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes",
       "category": "Deportivo"
     },	
-	
 	
 	{
       "name": "ECDF",
