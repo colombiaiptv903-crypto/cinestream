@@ -93,21 +93,21 @@
     },
 
     {
-      "name": "Win Sports SD",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a0ic/index.m3u8",
-      "category": "Deportivo"
-    },
-    {
-      "name": "Win Sports HD",
+      "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
       "category": "Deportivo"
     },
     {
+      "name": "Win Sports HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
+      "url": "http://181.78.8.199:8000/play/a0ic/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "http://181.78.79.131:8000/play/a0n1",
+      "url": "http://181.119.86.1:8000/play/a0d4",
       "category": "Deportivo"
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+      "url": "http://190.61.41.181:8000/play/a0r5/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -164,8 +164,14 @@
       "url": "https://la14hd.com/vivo/canales.php?stream=dsports2", 
 	  "category": "Deportivo"
     },
+     {
+      "name": "Directv Sports 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
+      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8", 
+	  "category": "Deportivo"
+    },   
     {
-      "name": "Directv Sports + SD",
+      "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=dsportsplus",
       "category": "Deportivo"
@@ -173,7 +179,7 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
+      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
       "category": "Deportivo"
     },	
 	    {
@@ -198,13 +204,13 @@
     {
       "name": "Espn 1 (Lat)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://38.7.101.90:8000/play/espn1/index.m3u8",
+      "url": "http://181.78.8.199:8000/play/a08y/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Espn 1 (Col)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+      "url": "http://181.78.8.199:8000/play/a0b1/index.m3u8",
       "category": "Deportivo"
     },
 	    {
