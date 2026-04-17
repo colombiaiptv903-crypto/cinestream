@@ -1,0 +1,79 @@
+name: cinestream
+description: CineStream - Películas, Series y TV en Vivo
+version: 1.3.2+22
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Red y datos
+  http: ^1.2.0
+  cached_network_image: ^3.3.1
+  shared_preferences: ^2.2.3
+
+  # Reproductor películas y series
+  video_player: ^2.8.6
+  chewie: ^1.8.5
+
+  # Reproductor TV en vivo (FFmpeg)
+  media_kit: ^1.1.10
+  media_kit_video: ^1.2.4
+  media_kit_libs_android_video: ^1.3.2
+  media_kit_libs_windows_video: ^1.0.4  
+
+  # Estado
+  provider: ^6.1.2
+
+  # Pantalla activa durante reproducción
+  wakelock_plus: ^1.1.4
+
+  # Auto-actualización desde GitHub
+  package_info_plus: ^8.0.0     # versión actual de la app
+  dio: ^5.4.0                   # descarga con progreso
+  open_filex: ^4.3.4            # instalar APK descargado
+  permission_handler: ^11.3.0   # permiso INSTALL_PACKAGES
+
+  # Banner publicitario propio
+  url_launcher: ^6.2.5          # abrir links al tocar el banner
+
+  # (Cast implementado via MethodChannel nativo — sin paquete externo)
+
+
+  # Autenticación — Appwrite
+  appwrite: ^13.0.0
+  device_info_plus: ^10.0.0   # ID único del dispositivo
+
+  # WebView para eventos con JavaScript ofuscado
+  webview_flutter: ^4.10.0
+  webview_flutter_android: ^4.11.0
+
+  # Iconos
+  cupertino_icons: ^1.0.6
+
+dependency_overrides:
+  # flutter_web_auth_2 3.x usa la API v1 de Flutter (Registrar) que fue eliminada.
+  # La versión 4.x usa la API v2 y compila correctamente con Kotlin moderno.
+  flutter_web_auth_2: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/logo.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#0A0A0F"
+  adaptive_icon_foreground: "assets/logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
