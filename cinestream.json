@@ -22,7 +22,7 @@
     {
       "name": "Caracol HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "http://190.60.49.242:4000/play/a0pt/index.m3u8",
+      "url": "http://181.78.8.199:8000/play/a08s/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -34,15 +34,9 @@
     {
       "name": "Caracol HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "http://190.242.59.52:8000/play/a05u/index.m3u8",
+      "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
       "category": "Entretenimiento"
     },	
-	{
-      "name": "Caracol HD2 TDT",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "http://186.33.52.222:8000/play/a16t",
-      "category": "Entretenimiento"
-    },
     {
       "name": "Señal Colombia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/330px-Se%C3%B1al_Colombia_logo.svg.png",
@@ -101,9 +95,16 @@
     {
       "name": "Win Sports HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://138.121.12.126:9000/play/a02a/index.m3u8",
+      "url": "http://181.78.8.199:8000/play/a0ic/index.m3u8",
       "category": "Deportivo"
     },
+    {
+      "name": "Win Sports HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
+      "url": "http://181.78.8.199:8000/play/a0cc/index.m3u8",
+      "category": "Deportivo"
+    },
+
     {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
