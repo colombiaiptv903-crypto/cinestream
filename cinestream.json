@@ -246,7 +246,7 @@
     {
       "name": "ESPN 2 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
-      "url": "http://38.41.8.1:8000/play/a0rp",
+      "url": "http://181.78.7.90:12500/play/a0mm/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -256,7 +256,13 @@
       "category": "Deportivo"
     },
     {
-      "name": "ESPN 2 MX",
+      "name": "ESPN 2 (Chi)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
+      "url": "http://181.78.7.90:12500/play/a0md/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
+      "name": "ESPN 2 (MX)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
       "url": "http://45.5.119.43:4000/play/a053/index.m3u8",
       "category": "Deportivo"
@@ -265,13 +271,13 @@
     {
       "name": "ESPN 3 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
-      "url": "http://190.60.59.67:8000/play/a0ew",
+      "url": "http://181.78.7.90:12500/play/a0nb/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "ESPN 3 (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
-      "url": "http://190.7.19.197:232/play/a03o/index.m3u8",
+      "url": "http://181.78.7.90:12500/play/a00q/index.m3u8",
       "category": "Deportivo"
     },
     {
