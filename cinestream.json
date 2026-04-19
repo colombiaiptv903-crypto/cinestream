@@ -484,9 +484,10 @@
     {
       "name": "Azteca Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
-      "url": "http://tv.diablotv.net:8080/live/roaua/Aua2026@/87574.ts",
+      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=azteca_deportes",
       "category": "Deportivo"
     },	
+    {
       "name": "Sport TV 1 (POR)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sporttv1",
@@ -511,7 +512,7 @@
       "category": "Deportivo"
     },
     {
-      "name": "Sky sports Es",
+      "name": "Sky sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
       "url": "http://45.5.119.43:4000/play/a05r/index.m3u8",
       "category": "Deportivo"
@@ -531,7 +532,7 @@
     {
       "name": "DAZN 1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png",
-      "url": "http://miotv.cc:8080/live/Tino/Tino/154584.ts",
+      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=dazn1",
       "category": "Deportivo"
     },
     {
