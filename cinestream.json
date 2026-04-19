@@ -9,7 +9,7 @@
     {
       "name": "Telecaribe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Telecaribe_%28nuevo_logo_con_color%29.png/500px-Telecaribe_%28nuevo_logo_con_color%29.png",
-      "url": "http://23.131.184.195:80/live/Ndnrb948486263bsc/727etsbnd709/69279.ts",
+      "url": "https://liveingesta318.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR",
       "category": "Regional"
     },
 	
@@ -95,7 +95,7 @@
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a06v/index.m3u8",
+      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=winsports",
       "category": "Deportivo"
     },
     {
@@ -108,7 +108,7 @@
     {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "http://181.78.7.90:12500/play/a0q3/index.m3u8",
+      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=winsportsplus",
       "category": "Deportivo"
     },
     {
@@ -120,7 +120,7 @@
     {
       "name": "Win Sports + ",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "http://181.78.7.90:12500/play/a0q3/index.m3u8",
+      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=winsports2",
       "category": "Deportivo"
     },
     {
@@ -794,7 +794,7 @@
       "category": "Infantil"
     },
     {
-      "name": "Disney",
+      "name": "Disney canal",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",
       "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
       "category": "Infantil"
