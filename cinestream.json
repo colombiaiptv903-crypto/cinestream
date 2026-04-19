@@ -238,6 +238,12 @@
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espnpremium",
       "category": "Deportivo"
     },
+        {
+      "name": "ESPN Premium",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
+      "url": "http://181.78.7.90:12500/play/a0m1/index.m3u8",
+      "category": "Deportivo"
+    },
     {
       "name": "ESPN 2 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
