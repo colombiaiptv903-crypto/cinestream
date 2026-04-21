@@ -186,7 +186,7 @@
 	    {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
+      "url": "http://nor1live.win:80/livehttpplay?channel_id=23135",
       "category": "Deportivo"
     },
 	{
@@ -241,7 +241,7 @@
         {
       "name": "ESPN Premium",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
-      "url": "http://104.250.128.34/livehttpplay?channel_id=23700",
+      "url": "http://170.244.209.30:8000/play/a0sb/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "ESPN 2 (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a08z/index.m3u8",
+      "url": "http://170.244.209.30:8000/play/a0hg/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "ESPN 3 (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
-      "url": "http://181.78.8.199:8000/play/a07f/index.m3u8",
+      "url": "http://170.244.209.30:8000/play/a0mr/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "ESPN 4 (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a09b/index.m3u8",
+      "url": "http://170.244.209.30:8000/play/a0nj/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -332,7 +332,7 @@
     {
       "name": "ESPN 5 (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/330px-ESPN_5_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a08n/index.m3u8",
+      "url": "http://170.244.209.30:8000/play/a05d/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -350,7 +350,13 @@
     {
       "name": "ESPN 6 (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a07g/index.m3u8",
+      "url": "http://170.244.209.30:8000/play/a043/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
+      "name": "ESPN 6 (Chi)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",
+      "url": "http://170.244.209.30:8000/play/a0mq/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -369,6 +375,12 @@
       "name": "ESPN 7",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",
       "url": "http://181.78.8.199:8000/play/a08o/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
+      "name": "ESPN 7",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",
+      "url": "http://170.244.209.30:8000/play/a0ib/index.m3u8",
       "category": "Deportivo"
     },
     {
