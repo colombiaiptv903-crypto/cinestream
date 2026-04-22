@@ -223,23 +223,23 @@
     {
       "name": "Espn 1 (Arg)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://181.78.7.90:12500/play/a0kt/index.m3u8",
+      "url": "http://45.5.149.220:8000/play/a03i/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Espn 1 (Chi)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://181.78.7.90:12500/play/a0dr/index.m3u8",
+      "url": "http://45.4.1.201:8000/play/a0nc/index.m3u8",
       "category": "Deportivo"
     },
     {
-      "name": "ESPN Premium",
+      "name": "ESPN Premium (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
-      "url": "http://181.78.7.90:12500/play/a0m1/index.m3u8",
+      "url": "http://45.4.1.201:8000/play/a107/index.m3u8",
       "category": "Deportivo"
     },
         {
-      "name": "ESPN Premium",
+      "name": "ESPN Premium (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
       "url": "http://181.78.7.90:12500/play/a0du/index.m3u8",
       "category": "Deportivo"
@@ -881,7 +881,7 @@
     {
       "name": "DW Español",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png",
-      "url": "http://190.60.49.242:4000/play/a0m3/index.m3u8",
+      "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8",
       "category": "noticias"
     },
     {
