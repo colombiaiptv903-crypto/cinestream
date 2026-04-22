@@ -229,13 +229,13 @@
     {
       "name": "Espn 1 (Chi)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://45.160.13.201:8000/playlist.m3u8",
+      "url": "http://45.160.13.201:8000/play/212",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Premium (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
-      "url": "http://45.4.1.201:8000/play/a107/index.m3u8",
+      "url": "http://45.160.13.201:8000/play/212",
       "category": "Deportivo"
     },
         {
