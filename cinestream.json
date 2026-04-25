@@ -12,7 +12,6 @@
       "url": "https://liveingesta318.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR",
       "category": "Regional"
     },
-	
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
@@ -36,7 +35,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
       "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
       "category": "Entretenimiento"
-    },	
+    },
     {
       "name": "Señal Colombia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/330px-Se%C3%B1al_Colombia_logo.svg.png",
@@ -55,13 +54,13 @@
       "url": "http://181.78.8.199:8000/play/a0az/index.m3u8",
       "category": "Entretenimiento"
     },
-   { 
+    {
       "name": "RCN Mas",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
       "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
       "category": "Entretenimiento"
     },
-	 {
+    {
       "name": "RCN HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/500px-RCN_HD2_2023.png",
       "url": "http://190.60.49.242:4000/play/a0ph/index.m3u8",
@@ -79,17 +78,16 @@
       "url": "http://45.5.119.43:4000/play/a026/index.m3u8",
       "category": "Entretenimiento"
     },
-	    {
+    {
       "name": "Azteca 7",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=azteca7",
       "category": "Entretenimiento"
     },
-
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=winsports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
       "category": "Deportivo"
     },
     {
@@ -104,7 +102,6 @@
       "url": "http://181.78.8.199:8000/play/a0ic/index.m3u8",
       "category": "Deportivo"
     },
-
     {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
@@ -120,7 +117,7 @@
     {
       "name": "Win Sports + ",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=winsports2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=winsports2",
       "category": "Deportivo"
     },
     {
@@ -129,13 +126,13 @@
       "url": "http://190.92.10.66:4000/play/a006/index.m3u8",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "SKY LA LIGA",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
       "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "L1 MAX",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/500px-L1MAX-LOGO.svg.png",
       "url": "http://38.52.200.181:4000/play/a02g/index.m3u8",
@@ -144,7 +141,7 @@
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=dsports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
       "category": "Deportivo"
     },
     {
@@ -162,15 +159,15 @@
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2", 
-	  "category": "Deportivo"
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+      "category": "Deportivo"
     },
-     {
+    {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8", 
-	  "category": "Deportivo"
-    },   
+      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
+      "category": "Deportivo"
+    },
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
@@ -180,23 +177,22 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=dsportsplus",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
       "category": "Deportivo"
-    },	
-	    {
+    },
+    {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
       "url": "http://nor1live.win:80/livehttpplay?channel_id=23135",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espndeportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
       "category": "Deportivo"
     },
-
-	{
+    {
       "name": "Espn 1 (MEX)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
       "url": "http://45.5.119.43:4000/play/a052/index.m3u8",
@@ -205,7 +201,7 @@
     {
       "name": "Espn 1",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn",
       "category": "Deportivo"
     },
     {
@@ -214,7 +210,7 @@
       "url": "http://181.78.8.199:8000/play/a0b1/index.m3u8",
       "category": "Deportivo"
     },
-	    {
+    {
       "name": "Espn 1 (Col)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
       "url": "http://181.78.14.26:4000/play/a05b/index.m3u8",
@@ -238,7 +234,7 @@
       "url": "http://45.4.1.201:8000/play/a107/index.m3u8",
       "category": "Deportivo"
     },
-        {
+    {
       "name": "ESPN Premium (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
       "url": "http://181.78.7.90:12500/play/a0du/index.m3u8",
@@ -247,7 +243,7 @@
     {
       "name": "ESPN 2 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
       "category": "Deportivo"
     },
     {
@@ -267,12 +263,11 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
       "url": "http://45.5.119.43:4000/play/a053/index.m3u8",
       "category": "Deportivo"
-    },	
-	
+    },
     {
       "name": "ESPN 3 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn3",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
       "category": "Deportivo"
     },
     {
@@ -296,7 +291,7 @@
     {
       "name": "ESPN 4 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn4",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
       "category": "Deportivo"
     },
     {
@@ -320,7 +315,7 @@
     {
       "name": "ESPN 5 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/330px-ESPN_5_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn5",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
       "category": "Deportivo"
     },
     {
@@ -344,7 +339,7 @@
     {
       "name": "ESPN 6 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn6",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn6",
       "category": "Deportivo"
     },
     {
@@ -368,7 +363,7 @@
     {
       "name": "ESPN 7 (COL)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn7",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
       "category": "Deportivo"
     },
     {
@@ -395,22 +390,22 @@
       "url": "http://45.5.149.220:8000/play/a03o/index.m3u8",
       "category": "Deportivo"
     },
-     {
+    {
       "name": "FOX SPORTS 3",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/500px-Fox_Sports_3_Argentina_2023.svg.png",
       "url": "http://45.5.149.220:8000/play/a03p/index.m3u8",
       "category": "Deportivo"
-    },   
+    },
     {
       "name": "TUDN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/330px-TUDN_Logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=tudn_mx",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tudn_mx",
       "category": "Deportivo"
     },
     {
       "name": "TUDN USA",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/330px-TUDN_Logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=tudn",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tudn",
       "category": "Deportivo"
     },
     {
@@ -428,41 +423,39 @@
     {
       "name": "Bein Sport",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=beinsportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
       "category": "Deportivo"
     },
-
     {
       "name": "Bein Sports Xtra",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=beinsport_xtra_espanol",
+      "url": "https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol",
       "category": "Deportivo"
     },
     {
       "name": "Sport TV",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sport_TV_2023.svg/500px-Sport_TV_2023.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sportv",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv",
       "category": "Deportivo"
     },
-   {
+    {
       "name": "Sport TV 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sportv2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv2",
       "category": "Deportivo"
     },
-   {
+    {
       "name": "Sport TV 3",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1920px-Sport_TV3_%282023%29.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sportv3",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv3",
       "category": "Deportivo"
     },
-     
-   {
+    {
       "name": "Claro Sports 1 HD (MX)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/330px-Claro_Sports_logo.svg.png",
       "url": "http://45.189.62.33:8002/play/a0cm/index.m3u8",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Claro Sports 2 HD (MX)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/330px-Claro_Sports_logo.svg.png",
@@ -474,62 +467,62 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png",
       "url": "http://46.149.191.219:9114/play/a003",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Premiere 1",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=premiere1",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Premiere 2",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere2",
       "category": "Deportivo"
     },
-        {
+    {
       "name": "Premiere 3",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere3",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere3",
       "category": "Deportivo"
-    },    
+    },
     {
       "name": "Premiere 4",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere4",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere4",
       "category": "Deportivo"
     },
-   {
+    {
       "name": "Premiere 5",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere5",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere5",
       "category": "Deportivo"
     },
-       {
+    {
       "name": "Premiere 6",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere6",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere6",
       "category": "Deportivo"
     },
-       {
+    {
       "name": "Premiere 7",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere7",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere7",
       "category": "Deportivo"
     },
     {
       "name": "Azteca Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=azteca_deportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Sport TV 1 (POR)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sporttv1",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sporttv1",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "ECDF",
       "logo": "https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
@@ -544,37 +537,37 @@
     {
       "name": "TyC Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=tycsports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
       "category": "Deportivo"
     },
     {
       "name": "TyC Sports Internacional (USA)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=tycinternacional",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tycinternacional",
       "category": "Deportivo"
     },
     {
       "name": "Telefe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/330px-Televisi%C3%B3n_Federal_Logo.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=telefe",
+      "url": "https://la14hd.com/vivo/canales.php?stream=telefe",
       "category": "Deportivo"
     },
     {
       "name": "TV Pública",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/500px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=tvpublica",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tvpublica",
       "category": "Deportivo"
     },
     {
       "name": "Movistar Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/500px-Movistar_Deportes.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=movistar",
+      "url": "https://la14hd.com/vivo/canales.php?stream=movistar",
       "category": "Deportivo"
     },
     {
       "name": "TNT Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=eventos13",
+      "url": "https://la14hd.com/vivo/canales.php?stream=eventos13",
       "category": "Deportivo"
     },
     {
@@ -582,14 +575,13 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
       "url": "http://45.5.149.220:8000/play/a03r/index.m3u8",
       "category": "Deportivo"
-    }, 
-    {      
+    },
+    {
       "name": "NBA TV (US)",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/330px-NBA_TV.svg.png",
       "url": "http://37.46.49.14:18010/play/a03e/index.m3u8",
       "category": "Deportivo"
     },
-  
     {
       "name": "Sky sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
@@ -611,7 +603,7 @@
     {
       "name": "DAZN 1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=dazn1",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dazn1",
       "category": "Deportivo"
     },
     {
@@ -1159,8 +1151,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/330px-SpaceLogo.svg.png",
       "url": "http://45.5.119.43:4000/play/a0iz/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
-    },	
-	
+    },
     {
       "name": "Star Channel",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/330px-Star_Channel_2020.svg.png",
@@ -1209,13 +1200,12 @@
       "url": "http://181.78.8.199:8000/play/a0ii/index.m3u8",
       "category": "Regional"
     },
-	    {
+    {
       "name": "TELEMUNDO",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/330px-Telemundo_logo_2018.svg.png",
       "url": "http://181.78.8.199:8000/play/a0cg/index.m3u8",
       "category": "Regional"
     },
-	
     {
       "name": "TLC",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/330px-TLC_logo_%282023%29.svg.png",
@@ -1234,7 +1224,7 @@
       "url": "http://181.78.8.199:8000/play/a0bq/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	 {
+    {
       "name": "Tlnovelas",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png",
       "url": "http://45.5.119.43:4000/play/a05k/index.m3u8",
@@ -1282,38 +1272,36 @@
       "url": "http://38.211.118.56:50002/play/a072/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-		{
+    {
       "name": "ZoyTV Plus HD",
       "logo": "https://i.ibb.co/gMx8nF5h/LOGO-Zoy-TV-Plus.png",
       "url": "https://tv.zoymilton.com/ZoyPlus/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	{
+    {
       "name": "ZoyTV Turcas HD",
       "logo": "https://i.ibb.co/TBwL27w8/LOGO-Zoy-TV-Turcas.png",
       "url": "https://tv.zoymilton.com/ZoyTurcas/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	{
+    {
       "name": "ZoyTV Pitufos HD",
       "logo": "https://i.ibb.co/hxzjjS7/favicon.png",
       "url": "https://tv.zoymilton.com/ZoyPitufos/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-		{
+    {
       "name": "ZoyTV Radio HQ",
       "logo": "https://i.ibb.co/hxzjjS7/favicon.png",
       "url": "https://tv.zoymilton.com/ZoyRadio/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	
-	{
+    {
       "name": "Warner Channel",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",
       "url": "http://181.78.8.199:8000/play/a0ia/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	
     {
       "name": "Dragon Ball|24/7",
       "logo": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2018/09/dragon_ball_super_16.png?resize=860%2C484&ssl=1",
@@ -127907,6 +127895,1194 @@
       "rating": 0.0,
       "category": "estrenos 2026",
       "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/514402.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Indivisible (2018)",
+      "image": "http://redworld.pro:8880/images/6b04e93df4228806eabe12dce2e050c3.jpg",
+      "rating": 0.0,
+      "category": "semana santa",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/269036.avi",
+      "year": 2018,
+      "genres": [
+        "Semana Santa"
+      ]
+    },
+    {
+      "title": "El enviado de Dios (2017)",
+      "image": "http://redworld.pro:8880/images/d3fb57835c278ef1657eacc6ef145d98.jpg",
+      "rating": 0.0,
+      "category": "semana santa",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/269070.avi",
+      "year": 2017,
+      "genres": [
+        "Semana Santa"
+      ]
+    },
+    {
+      "title": "Algo celosa (2017)",
+      "image": "http://redworld.pro:8880/images/771b0493c8a83486a1380f0f412c4f59.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/293942.avi",
+      "year": 2017,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Alibi.com (2017)",
+      "image": "http://redworld.pro:8880/images/a31493a874930ceac55492a9be2412c4.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/293946.avi",
+      "year": 2017,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Asesinato en el Expreso de Oriente (2017)",
+      "image": "http://redworld.pro:8880/images/86373c8c08c74001cbce816c47368677.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/294040.avi",
+      "year": 2017,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Asesinatos Accidentales (2018)",
+      "image": "http://redworld.pro:8880/images/c680b98ef8d6bf4eecbcf664fe3421c0.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/294043.avi",
+      "year": 2018,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Aurora (2018)",
+      "image": "http://redworld.pro:8880/images/bb57294b5f4b823d668d7a89d88cb99e.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/294079.avi",
+      "year": 2018,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Cessez-le-feu (2017)",
+      "image": "http://redworld.pro:8880/images/f9b9433941155672ccc6633e4b13ad3d.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/294212.avi",
+      "year": 2017,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Fondo (2021)",
+      "image": "http://redworld.pro:8880/images/3557bde7ff70ec76d9a7e7487b7b95c2.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/294706.avi",
+      "year": 2021,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Instinto Incontenible (2018)",
+      "image": "http://redworld.pro:8880/images/9925358a69834e7b1ae35fc25cd08ab5.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/294837.avi",
+      "year": 2018,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Terror Birds (2016)",
+      "image": "http://redworld.pro:8880/images/f5ae7fef0c64d24cc28b623246725157.jpg",
+      "rating": 0.0,
+      "category": "peliculas internet lentos",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/294927.avi",
+      "year": 2016,
+      "genres": [
+        "Peliculas Internet Lentos"
+      ]
+    },
+    {
+      "title": "Cyborg 2087 (1966)",
+      "image": "http://redworld.pro:8880/images/6ed1e4d93941a59c7884eb6986c93868.jpg",
+      "rating": 0.0,
+      "category": "cine retro",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/301061.mkv",
+      "year": 2087,
+      "genres": [
+        "Cine retro"
+      ]
+    },
+    {
+      "title": "Antes Del Fin Del Mundo (2025)",
+      "image": "http://redworld.pro:8880/images/6e5881780510e0fffba8b914dc285469.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/515725.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Edificio del Miedo (2024)",
+      "image": "http://redworld.pro:8880/images/c45307d083cbbbffefd5e6c88cf8dd04.jpg",
+      "rating": 0.0,
+      "category": "películas 2024",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/516248.mp4",
+      "year": 2024,
+      "genres": [
+        "Películas 2024"
+      ]
+    },
+    {
+      "title": "Atrapada en Mi Propia Casa (2024)",
+      "image": "http://redworld.pro:8880/images/ece6846fb0ba4f01ba5bf9e09b21dbd2.jpg",
+      "rating": 0.0,
+      "category": "películas 2024",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/516249.mp4",
+      "year": 2024,
+      "genres": [
+        "Películas 2024"
+      ]
+    },
+    {
+      "title": "Terrestrial (2024)",
+      "image": "http://redworld.pro:8880/images/081b2357cb0c4cc8ae1dd819aaab0dbd.jpg",
+      "rating": 0.0,
+      "category": "películas 2024",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/516250.mp4",
+      "year": 2024,
+      "genres": [
+        "Películas 2024"
+      ]
+    },
+    {
+      "title": "Fackham Hall (2025)",
+      "image": "http://redworld.pro:8880/images/27991fbad60ca4753ba82de89d0c04b6.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/516260.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Solo Mio (2026)",
+      "image": "http://redworld.pro:8880/images/e09200d3481e66c54e4b7c8e8b3217b1.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/516261.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Caminos del crimen (2026)",
+      "image": "http://redworld.pro:8880/images/f2b89b12caa7117c01d11b4ce09724f9.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/516262.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Sumergidos (2020)",
+      "image": "http://redworld.pro:8880/images/e94d4bce6156a57c28fe318a897716a0.jpg",
+      "rating": 0.0,
+      "category": "ciencia ficción",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/518683.mp4",
+      "year": 2020,
+      "genres": [
+        "Ciencia Ficción"
+      ]
+    },
+    {
+      "title": "Amor en Costa Rica (2025)",
+      "image": "http://redworld.pro:8880/images/8ab445ca4cd8b4ea6a8ac0def162b262.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/518684.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Un destino en Corea (2026)",
+      "image": "http://redworld.pro:8880/images/ed406dd7f86975e59d54d85eabc0f702.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/518685.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Las Chicas de Wall (2025)",
+      "image": "http://redworld.pro:8880/images/59536ce425cf08473eb2a8c31ea8bceb.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/518915.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "El Guardián: Último refugio (2026) CAM",
+      "image": "http://redworld.pro:8880/images/9a1485cd1edf87bd6897576c899c7405.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/518917.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Vida privada (2025)",
+      "image": "http://redworld.pro:8880/images/c8c59a24a0dce34eedbdd52d6ecdb9e0.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519033.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Contra las cuerdas (2026)",
+      "image": "http://redworld.pro:8880/images/be1b2c72f76b1e7321f2b35bfca0c566.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519612.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Amor Fuera De Tiempo (2025)",
+      "image": "http://redworld.pro:8880/images/b87a5b35e94a10533a1dbaa22ecf5720.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519671.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Un hombre por semana (2026)",
+      "image": "http://redworld.pro:8880/images/0934c5b5614bfc6131d5d02a1fc1ac2a.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519672.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Lurker (2025)",
+      "image": "http://redworld.pro:8880/images/1580e34aa0f903f556aa5d1fa442c488.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519924.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Patrulla Nocturna (2026)",
+      "image": "http://redworld.pro:8880/images/a19ced9d72cc532097d98ba19dfad2a0.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519925.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Scream 7 (2026)",
+      "image": "http://redworld.pro:8880/images/70bd88c2681194ecd05b3ba4c71efa32.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519926.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Vida Paralela (2025)",
+      "image": "http://redworld.pro:8880/images/cb5adcfc54a6cc5317d0cac13aca6cf4.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519977.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Detox de plásticos (2026)",
+      "image": "http://redworld.pro:8880/images/a870f403a4a382c9cd26eee57ed55f1c.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/519978.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Zeta (2026)",
+      "image": "http://redworld.pro:8880/images/b8a0591a8b097aab857d28ff936a669f.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520153.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Peaky Blinders: El hombre inmortal (2026)",
+      "image": "http://redworld.pro:8880/images/b548f03db20eac8a7a2413e140deee35.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520154.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Hoppers: Operación castor (2026) CAM",
+      "image": "http://redworld.pro:8880/images/ce307b6fce91a14a81ebaa5bb054c92f.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520155.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "BTS: EL COMEBACK EN VIVO",
+      "image": "http://redworld.pro:8880/images/d48b52080ff4bd039f68dd91e903efe9.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520668.mp4",
+      "year": 0,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "¡Ayuda! (2026)",
+      "image": "http://redworld.pro:8880/images/9c3c865cac6799d34fde3035117a4207.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520674.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "GOAT: La cabra que cambió el juego (2026)",
+      "image": "http://redworld.pro:8880/images/cc95c2b3aa6e5e7ecf5180270dabc644.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520815.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Violencia en la frontera 2 (2026)",
+      "image": "http://redworld.pro:8880/images/607422c2537da96b0c83c894ea858654.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520816.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Hannah Montana: Especial 20° aniversario (2026)",
+      "image": "http://redworld.pro:8880/images/1d8196f8d8d0f170a535bf77d5cc3eb5.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520818.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Lindas y Letales (2026)",
+      "image": "http://redworld.pro:8880/images/31f0548f94af3efe3ffa8acaf3cad896.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/520819.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Últimas palabras célebres: Dra. Jane Goodall (2025)",
+      "image": "http://redworld.pro:8880/images/0fb81ccc5d3da3f57ee3c24af161ef5e.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521021.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Los renacidos (2025)",
+      "image": "http://redworld.pro:8880/images/c71080505d32bb2113db3a24ac8e7a15.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521022.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "La Chica Del Ático (2025)",
+      "image": "http://redworld.pro:8880/images/158ccbd7daa041c9f4ddb2533f033a30.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521023.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Re-Member: La última noche (2025)",
+      "image": "http://redworld.pro:8880/images/71a43996040a455205897e683b14cfce.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521024.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Últimas palabras célebres: Eric Dane (2026)",
+      "image": "http://redworld.pro:8880/images/da363fe57eeb9f218d26538651db4b26.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521025.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "La línea roja (2026)",
+      "image": "http://redworld.pro:8880/images/6b6ce56680cea5f48fdf0c5affb425c3.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521026.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Aún es de Noche en Caracas (2025)",
+      "image": "http://redworld.pro:8880/images/745450e578df1f140c5425d15b550dc7.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521107.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "BTS: El Regreso (2026)",
+      "image": "http://redworld.pro:8880/images/ce64d224f759e946c0b32bc61c85a9d1.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521108.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Mike & Nick & Nick & Alice (2026)",
+      "image": "http://redworld.pro:8880/images/ae5e6576a4c369eefa80b3f2e17f3122.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521109.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "La virgen de la tosquera (2026)",
+      "image": "http://redworld.pro:8880/images/3526d7850d941b572b048ae53df0fbbc.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521110.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "53 domingos (2026)",
+      "image": "http://redworld.pro:8880/images/f2ac0828da37d83351b5498f37e840f8.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521111.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Jugada maestra (2026)",
+      "image": "http://redworld.pro:8880/images/9d2de45cd3fc6676e12bb7e6de81648c.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521112.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Versa (2025)",
+      "image": "http://redworld.pro:8880/images/205406333bb2f1d1357f992b6eface04.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521151.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "La Mujer Policia 3 (2026)",
+      "image": "http://redworld.pro:8880/images/3cb8b9562f9193a8fe30dcadb846863e.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521153.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Avatar: Fuego y ceniza (2025)",
+      "image": "http://redworld.pro:8880/images/aaeccb1288ac9865025fc21c38e61bd2.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521154.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Al descubierto: La muerte y la vida de Lamar Odom (2026)",
+      "image": "http://redworld.pro:8880/images/4fb7131439943456d0c864bfeeb1b7ef.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521410.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Inthum (2026)",
+      "image": "http://redworld.pro:8880/images/75da2cbe3ab05f4d31433f5b313bec40.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521411.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "La misteriosa mirada del flamenco (2025)",
+      "image": "http://redworld.pro:8880/images/b7332a6bd6e5ea81550859c724d54840.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521554.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Clika (2026)",
+      "image": "http://redworld.pro:8880/images/e2fa63c0d0b25a24eab05600afe125a5.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521555.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Scarlet (2025)",
+      "image": "http://redworld.pro:8880/images/35602d59d6f7a040f5a8e516bec06350.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521742.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "A Poet (2026)",
+      "image": "http://redworld.pro:8880/images/bc71cdd784a8e4432927ac0c1a89464f.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521743.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Hasta Que Amanezca (2026)",
+      "image": "http://redworld.pro:8880/images/aa80918b73eada934f45fc1eb2640f2d.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521744.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Sobran las palabras (2026)",
+      "image": "http://redworld.pro:8880/images/188a0f27eb1f07340225ce1827a6712c.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521745.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Dolly (2026)",
+      "image": "http://redworld.pro:8880/images/d55a4c43f4f87094c01038bc31071388.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521746.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "El último gigante (2026)",
+      "image": "http://redworld.pro:8880/images/69c3e2fed7ba7d74bbd5eaeb2bb85535.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/521747.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "¡La novia! (2026)",
+      "image": "http://redworld.pro:8880/images/60f524313b1ae381f2f74993d7ff9565.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522097.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Consecuencias duraderas 2 (2026)",
+      "image": "http://redworld.pro:8880/images/46e112fff27a70c709eed3959b7ab214.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522098.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "En busca de Harry: El arte detrás de la magia (2026)",
+      "image": "http://redworld.pro:8880/images/b18a6675c145b20363681b8dff9e880b.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522099.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Al descubierto: Jaque al rey (2026)",
+      "image": "http://redworld.pro:8880/images/bf7da2aea69f395ccb124ce8513b34e4.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522184.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Sniper: En tierra de nadie (2026)",
+      "image": "http://redworld.pro:8880/images/c0626e7ceb6989c0f09e0251198955fb.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522185.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "El Hombre Menguante (2025)",
+      "image": "http://redworld.pro:8880/images/36a88607df9d898b7f68b00d2cbafd8a.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522428.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Protocolo de salida (2025)",
+      "image": "http://redworld.pro:8880/images/e91d81d88068cd5c6d4c22f212b58668.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522429.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Hogar Dulce Hogar: Renacimiento (2025)",
+      "image": "http://redworld.pro:8880/images/c6782876e64425edb221f498f5a67d42.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522430.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "El muñeco de arcilla (2025)",
+      "image": "http://redworld.pro:8880/images/ee6673d80114bd45bd58fc103edfc268.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522431.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Comer, rezar, ladrar (2026)",
+      "image": "http://redworld.pro:8880/images/4d14965350430762652876b8adb6b0da.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522432.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "18 rosas (2026)",
+      "image": "http://redworld.pro:8880/images/43723a563987af5ed215c8af09dffd11.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522433.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Arco (2025)",
+      "image": "http://redworld.pro:8880/images/ce01111e431d5fd6aa18309111f4ae10.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522720.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Outcome (2026)",
+      "image": "http://redworld.pro:8880/images/4b3721947efc3b9437a62a2f018efd68.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522721.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Proyecto Fin del Mundo (2026)",
+      "image": "http://redworld.pro:8880/images/e832ff45986f65cdca32a1bef426d7ae.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522722.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Embestida (2026)",
+      "image": "http://redworld.pro:8880/images/9c748ef5ba4baf529e32029e873772d1.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522723.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La película (2026)",
+      "image": "http://redworld.pro:8880/images/b4b4f535bcb597873bfc95613eac565b.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/522972.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Boda sangrienta 2 (2026)",
+      "image": "http://redworld.pro:8880/images/2f8d57f22e708b11f6bae6ad1c79de7a.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523307.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Turbulencia: Pánico en el aire (2025)",
+      "image": "http://redworld.pro:8880/images/4e49fe71ba3d9a3c2004564b40ec1a72.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523324.mp4",
+      "year": 2025,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "No te olvidaré (2026)",
+      "image": "http://redworld.pro:8880/images/8e62f45775cd6d73d739151e85b9efd4.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523325.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Al descubierto: Los escandalosos Portland Jail Blazers (2026)",
+      "image": "http://redworld.pro:8880/images/6965cb158fe15844e1e19a474df0b1c6.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523526.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Avatar: Aang, The Last Airbender (2026)",
+      "image": "http://redworld.pro:8880/images/c3163ca12a820b0c9ec4c41d49a496cd.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523543.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Buena suerte, diviértete, no mueras (2026)",
+      "image": "http://redworld.pro:8880/images/b872365fdc6859215b664e33f88d5f61.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523634.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Bolas arriba (2026)",
+      "image": "http://redworld.pro:8880/images/dafecbcec5db6c9ad18b123b218e5fc2.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523635.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "La tostadora (2026)",
+      "image": "http://redworld.pro:8880/images/0fa8fc1ffee1b76b2d2bec198663c41d.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523636.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Borderline (2025)",
+      "image": "http://redworld.pro:8880/images/2fe82b609f71a21870e9bcd8e07e1791.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523760.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Cuando El Mal Despierta (2025)",
+      "image": "http://redworld.pro:8880/images/528c8732ca1d3d07a14bdc96e9b41b2c.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523761.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "La sangre del Exorcista (2025)",
+      "image": "http://redworld.pro:8880/images/83bb87d596e74bdfd27d09d9308ca533.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523762.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "Alerta Extinción (2026)",
+      "image": "http://redworld.pro:8880/images/2dacbf2981dfd6fe1bc91947989f5c48.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523763.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "¿Quieres Ser Mi Novia? (2026)",
+      "image": "http://redworld.pro:8880/images/08fd4f593250aa08f520cb6781c2f153.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523853.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Compañeras de cuarto(2026)",
+      "image": "http://redworld.pro:8880/images/abca324b5538e79b8dbd8b8f78623a47.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523854.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "La caja azul (2026)",
+      "image": "http://redworld.pro:8880/images/d2034e719da6a832031a9cad2c5068dc.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523855.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Venganza (2026)",
+      "image": "http://redworld.pro:8880/images/64a68c788eb974ef84b5df743af6303e.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523856.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Destino final lazos de sangre 2025",
+      "image": "http://redworld.pro:8880/images/c98ffc836080142a7efc37f1ad806f2e.jpg",
+      "rating": 0.0,
+      "category": "saga destino final",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/523966.mp4",
+      "year": 2025,
+      "genres": [
+        "Saga Destino Final"
+      ]
+    },
+    {
+      "title": "Al descubierto: El tiroteo en Hawthorne Hill (2026)",
+      "image": "http://redworld.pro:8880/images/8cb1997f9eedbc45c2129b12d50e8cab.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524193.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "180 (2026)",
+      "image": "http://redworld.pro:8880/images/fc5911abc689cf1f9eb8c3c2ad930183.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524194.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Espantoso (2026)",
+      "image": "http://redworld.pro:8880/images/63b7f01cb1182065171fd92e13b98814.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524362.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "El Último Conquistador (2026)",
+      "image": "http://redworld.pro:8880/images/f8c0c2c15042c4add1a0d85e8ca4d6e2.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524363.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Chavín de Huántar, el rescate del siglo (2025)",
+      "image": "http://redworld.pro:8880/images/b63be928b0bb7ebf4f5c963a826caedf.jpg",
+      "rating": 0.0,
+      "category": "películas 2025",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524364.mp4",
+      "year": 2025,
+      "genres": [
+        "Películas 2025"
+      ]
+    },
+    {
+      "title": "El Drama (2026) calidad cam con anuncios",
+      "image": "http://redworld.pro:8880/images/21bf05dface2400e03d46eb33a57a653.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524365.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Ápex (2026)",
+      "image": "http://redworld.pro:8880/images/97b04f681ffc14336cd865aec19e1a8c.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524521.mp4",
+      "year": 2026,
+      "genres": [
+        "Estrenos 2026"
+      ]
+    },
+    {
+      "title": "Michael (2026) CAM",
+      "image": "http://redworld.pro:8880/images/b093c8a62d670de3ecea1ad3c54bfe98.jpg",
+      "rating": 0.0,
+      "category": "estrenos 2026",
+      "url": "http://rlatinop.com:8880/movie/arturo710745/rUtZwW72tMcj/524522.mp4",
       "year": 2026,
       "genres": [
         "Estrenos 2026"
@@ -386322,1167 +387498,4 @@
         },
         {
           "title": "S01E34",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514967.mp4"
-        },
-        {
-          "title": "S01E35",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514968.mp4"
-        },
-        {
-          "title": "S01E36",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514859.mp4"
-        },
-        {
-          "title": "S01E37",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514969.mp4"
-        },
-        {
-          "title": "S01E38",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514860.mp4"
-        },
-        {
-          "title": "S01E39",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514970.mp4"
-        },
-        {
-          "title": "S01E40",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514861.mp4"
-        },
-        {
-          "title": "S01E41",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514862.mp4"
-        },
-        {
-          "title": "S01E42",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514971.mp4"
-        },
-        {
-          "title": "S01E43",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514972.mp4"
-        },
-        {
-          "title": "S01E44",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514863.mp4"
-        },
-        {
-          "title": "S01E45",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514973.mp4"
-        },
-        {
-          "title": "S01E46",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514864.mp4"
-        },
-        {
-          "title": "S01E47",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514865.mp4"
-        },
-        {
-          "title": "S01E48",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514974.mp4"
-        },
-        {
-          "title": "S01E49",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514866.mp4"
-        },
-        {
-          "title": "S01E50",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514975.mp4"
-        },
-        {
-          "title": "S01E51",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514867.mp4"
-        },
-        {
-          "title": "S01E52",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514976.mp4"
-        },
-        {
-          "title": "S01E53",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514977.mp4"
-        },
-        {
-          "title": "S01E54",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514868.mp4"
-        },
-        {
-          "title": "S01E55",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514869.mp4"
-        },
-        {
-          "title": "S01E56",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514978.mp4"
-        },
-        {
-          "title": "S01E57",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514870.mp4"
-        },
-        {
-          "title": "S01E58",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514979.mp4"
-        },
-        {
-          "title": "S01E59",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514980.mp4"
-        },
-        {
-          "title": "S01E60",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514871.mp4"
-        },
-        {
-          "title": "S01E61",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514872.mp4"
-        },
-        {
-          "title": "S01E62",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514981.mp4"
-        },
-        {
-          "title": "S01E63",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514873.mp4"
-        },
-        {
-          "title": "S01E64",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514982.mp4"
-        },
-        {
-          "title": "S01E65",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514874.mp4"
-        },
-        {
-          "title": "S01E66",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514983.mp4"
-        },
-        {
-          "title": "S01E67",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514984.mp4"
-        },
-        {
-          "title": "S01E68",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514875.mp4"
-        },
-        {
-          "title": "S01E69",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514985.mp4"
-        },
-        {
-          "title": "S01E70",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514876.mp4"
-        },
-        {
-          "title": "S01E71",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514877.mp4"
-        },
-        {
-          "title": "S01E72",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514986.mp4"
-        },
-        {
-          "title": "S01E73",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514878.mp4"
-        },
-        {
-          "title": "S01E74",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514987.mp4"
-        },
-        {
-          "title": "S01E75",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514879.mp4"
-        },
-        {
-          "title": "S01E76",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514988.mp4"
-        },
-        {
-          "title": "S01E77",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514880.mp4"
-        },
-        {
-          "title": "S01E78",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514989.mp4"
-        },
-        {
-          "title": "S01E79",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514881.mp4"
-        },
-        {
-          "title": "S01E80",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514990.mp4"
-        },
-        {
-          "title": "S01E81",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514882.mp4"
-        },
-        {
-          "title": "S01E82",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514991.mp4"
-        },
-        {
-          "title": "S01E83",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514883.mp4"
-        },
-        {
-          "title": "S01E84",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514992.mp4"
-        },
-        {
-          "title": "S01E85",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514993.mp4"
-        },
-        {
-          "title": "S01E86",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514884.mp4"
-        },
-        {
-          "title": "S01E87",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514994.mp4"
-        },
-        {
-          "title": "S01E88",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514885.mp4"
-        },
-        {
-          "title": "S01E89",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514886.mp4"
-        },
-        {
-          "title": "S01E90",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514995.mp4"
-        },
-        {
-          "title": "S01E91",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514887.mp4"
-        },
-        {
-          "title": "S01E92",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514996.mp4"
-        },
-        {
-          "title": "S01E93",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514888.mp4"
-        },
-        {
-          "title": "S01E94",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514997.mp4"
-        },
-        {
-          "title": "S01E95",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514998.mp4"
-        },
-        {
-          "title": "S01E96",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514889.mp4"
-        },
-        {
-          "title": "S01E97",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514999.mp4"
-        },
-        {
-          "title": "S01E98",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514890.mp4"
-        },
-        {
-          "title": "S01E99",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514891.mp4"
-        },
-        {
-          "title": "S01E100",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515000.mp4"
-        },
-        {
-          "title": "S01E101",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515001.mp4"
-        },
-        {
-          "title": "S01E102",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514892.mp4"
-        },
-        {
-          "title": "S01E103",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514893.mp4"
-        },
-        {
-          "title": "S01E104",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515002.mp4"
-        },
-        {
-          "title": "S01E105",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514894.mp4"
-        },
-        {
-          "title": "S01E106",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515003.mp4"
-        },
-        {
-          "title": "S01E107",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514895.mp4"
-        },
-        {
-          "title": "S01E108",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515004.mp4"
-        },
-        {
-          "title": "S01E109",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515005.mp4"
-        },
-        {
-          "title": "S01E110",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514896.mp4"
-        },
-        {
-          "title": "S01E111",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514897.mp4"
-        },
-        {
-          "title": "S01E112",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515006.mp4"
-        },
-        {
-          "title": "S01E113",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514898.mp4"
-        },
-        {
-          "title": "S01E114",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515007.mp4"
-        },
-        {
-          "title": "S01E115",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515008.mp4"
-        },
-        {
-          "title": "S01E116",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514899.mp4"
-        },
-        {
-          "title": "S01E117",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515009.mp4"
-        },
-        {
-          "title": "S01E118",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514900.mp4"
-        },
-        {
-          "title": "S01E119",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515010.mp4"
-        },
-        {
-          "title": "S01E120",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514901.mp4"
-        },
-        {
-          "title": "S01E121",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514902.mp4"
-        },
-        {
-          "title": "S01E122",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515011.mp4"
-        },
-        {
-          "title": "S01E123",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514903.mp4"
-        },
-        {
-          "title": "S01E124",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515012.mp4"
-        },
-        {
-          "title": "S01E125",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515013.mp4"
-        },
-        {
-          "title": "S01E126",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514904.mp4"
-        },
-        {
-          "title": "S01E127",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515014.mp4"
-        },
-        {
-          "title": "S01E128",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514905.mp4"
-        },
-        {
-          "title": "S01E129",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515015.mp4"
-        },
-        {
-          "title": "S01E130",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514906.mp4"
-        },
-        {
-          "title": "S01E131",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514907.mp4"
-        },
-        {
-          "title": "S01E132",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515016.mp4"
-        },
-        {
-          "title": "S01E133",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515017.mp4"
-        },
-        {
-          "title": "S01E134",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514908.mp4"
-        },
-        {
-          "title": "S01E135",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515018.mp4"
-        },
-        {
-          "title": "S01E136",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514909.mp4"
-        },
-        {
-          "title": "S01E137",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515019.mp4"
-        },
-        {
-          "title": "S01E138",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514910.mp4"
-        },
-        {
-          "title": "S01E139",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515020.mp4"
-        },
-        {
-          "title": "S01E140",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514911.mp4"
-        },
-        {
-          "title": "S01E141",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514912.mp4"
-        },
-        {
-          "title": "S01E142",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/515021.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Retro"
-      ]
-    },
-    {
-      "title": "Don Dracula",
-      "image": "http://redworld.pro:8880/images/8b67208c371191268f85b559a24bd3e8.jpg",
-      "rating": 0.0,
-      "category": "retro",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514834.mkv"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514943.mkv"
-        },
-        {
-          "title": "S01E03",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514944.mkv"
-        },
-        {
-          "title": "S01E04",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514835.mkv"
-        },
-        {
-          "title": "S01E05",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514945.mkv"
-        },
-        {
-          "title": "S01E06",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514836.mkv"
-        },
-        {
-          "title": "S01E07",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514946.mkv"
-        },
-        {
-          "title": "S01E08",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514837.mkv"
-        },
-        {
-          "title": "S01E09",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514838.mkv"
-        },
-        {
-          "title": "S01E10",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514947.mkv"
-        },
-        {
-          "title": "S01E11",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514839.mkv"
-        },
-        {
-          "title": "S01E12",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514948.mkv"
-        },
-        {
-          "title": "S01E13",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514949.mkv"
-        },
-        {
-          "title": "S01E14",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514840.mkv"
-        },
-        {
-          "title": "S01E15",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514841.mkv"
-        },
-        {
-          "title": "S01E16",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514950.mkv"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Retro"
-      ]
-    },
-    {
-      "title": "Don Gato y su Pandilla",
-      "image": "http://redworld.pro:8880/images/38f321383ce0aba7149191a38928905f.jpg",
-      "rating": 0.0,
-      "category": "retro",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514715.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514913.mp4"
-        },
-        {
-          "title": "S01E03",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514914.mp4"
-        },
-        {
-          "title": "S01E04",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514716.mp4"
-        },
-        {
-          "title": "S01E05",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514717.mp4"
-        },
-        {
-          "title": "S01E06",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514915.mp4"
-        },
-        {
-          "title": "S01E07",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514718.mp4"
-        },
-        {
-          "title": "S01E08",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514916.mp4"
-        },
-        {
-          "title": "S01E09",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514719.mp4"
-        },
-        {
-          "title": "S01E10",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514917.mp4"
-        },
-        {
-          "title": "S01E11",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514918.mp4"
-        },
-        {
-          "title": "S01E12",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514720.mp4"
-        },
-        {
-          "title": "S01E13",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514721.mp4"
-        },
-        {
-          "title": "S01E14",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514919.mp4"
-        },
-        {
-          "title": "S01E17",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514723.mp4"
-        },
-        {
-          "title": "S01E18",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514921.mp4"
-        },
-        {
-          "title": "S01E19",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514922.mp4"
-        },
-        {
-          "title": "S01E20",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514724.mp4"
-        },
-        {
-          "title": "S01E21",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514725.mp4"
-        },
-        {
-          "title": "S01E22",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514923.mp4"
-        },
-        {
-          "title": "S01E23",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514924.mp4"
-        },
-        {
-          "title": "S01E24",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514726.mp4"
-        },
-        {
-          "title": "S01E25",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514925.mp4"
-        },
-        {
-          "title": "S01E26",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514727.mp4"
-        },
-        {
-          "title": "S01E27",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514728.mp4"
-        },
-        {
-          "title": "S01E28",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514926.mp4"
-        },
-        {
-          "title": "S01E31",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514928.mp4"
-        },
-        {
-          "title": "S01E32",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514730.mp4"
-        },
-        {
-          "title": "S01E33",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514929.mp4"
-        },
-        {
-          "title": "S01E34",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514731.mp4"
-        },
-        {
-          "title": "S01E35",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514930.mp4"
-        },
-        {
-          "title": "S01E36",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514732.mp4"
-        },
-        {
-          "title": "S01E37",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514931.mp4"
-        },
-        {
-          "title": "S01E38",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514733.mp4"
-        },
-        {
-          "title": "S01E39",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514932.mp4"
-        },
-        {
-          "title": "S01E40",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514734.mp4"
-        },
-        {
-          "title": "S01E41",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514933.mp4"
-        },
-        {
-          "title": "S01E42",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514735.mp4"
-        },
-        {
-          "title": "S01E43",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514934.mp4"
-        },
-        {
-          "title": "S01E44",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514736.mp4"
-        },
-        {
-          "title": "S01E45",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514935.mp4"
-        },
-        {
-          "title": "S01E46",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514737.mp4"
-        },
-        {
-          "title": "S01E47",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514936.mp4"
-        },
-        {
-          "title": "S01E48",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514738.mp4"
-        },
-        {
-          "title": "S01E49",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514937.mp4"
-        },
-        {
-          "title": "S01E50",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514739.mp4"
-        },
-        {
-          "title": "S01E51",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514938.mp4"
-        },
-        {
-          "title": "S01E52",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514740.mp4"
-        },
-        {
-          "title": "S01E53",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514939.mp4"
-        },
-        {
-          "title": "S01E54",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514741.mp4"
-        },
-        {
-          "title": "S01E55",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514940.mp4"
-        },
-        {
-          "title": "S01E56",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514742.mp4"
-        },
-        {
-          "title": "S01E57",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514941.mp4"
-        },
-        {
-          "title": "S01E58",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514743.mp4"
-        },
-        {
-          "title": "S01E59",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514744.mp4"
-        },
-        {
-          "title": "S01E60",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514942.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Retro"
-      ]
-    },
-    {
-      "title": "Droppy",
-      "image": "http://redworld.pro:8880/images/af8700504f85454cd125c8b77b9b6606.jpg",
-      "rating": 0.0,
-      "category": "retro",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514691.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514692.mp4"
-        },
-        {
-          "title": "S01E03",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514693.mp4"
-        },
-        {
-          "title": "S01E04",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514694.mp4"
-        },
-        {
-          "title": "S01E05",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514695.mp4"
-        },
-        {
-          "title": "S01E06",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514696.mp4"
-        },
-        {
-          "title": "S01E07",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514697.mp4"
-        },
-        {
-          "title": "S01E08",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514698.mp4"
-        },
-        {
-          "title": "S01E09",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514699.mp4"
-        },
-        {
-          "title": "S01E10",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514700.mp4"
-        },
-        {
-          "title": "S01E11",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514701.mp4"
-        },
-        {
-          "title": "S01E12",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514702.mp4"
-        },
-        {
-          "title": "S01E13",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514703.mp4"
-        },
-        {
-          "title": "S01E14",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514704.mp4"
-        },
-        {
-          "title": "S01E15",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514705.mp4"
-        },
-        {
-          "title": "S01E16",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514706.mp4"
-        },
-        {
-          "title": "S01E17",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514707.mp4"
-        },
-        {
-          "title": "S01E18",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514708.mp4"
-        },
-        {
-          "title": "S01E19",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514709.mp4"
-        },
-        {
-          "title": "S01E20",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514710.mp4"
-        },
-        {
-          "title": "S01E21",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514711.mp4"
-        },
-        {
-          "title": "S01E22",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514712.mp4"
-        },
-        {
-          "title": "S01E23",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514713.mp4"
-        },
-        {
-          "title": "S01E24",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514714.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Retro"
-      ]
-    },
-    {
-      "title": "Earthworm Jim",
-      "image": "http://redworld.pro:8880/images/0c94bb1c28aa7e3329d9936eaa42a62b.jpg",
-      "rating": 0.0,
-      "category": "retro",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514765.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514766.mp4"
-        },
-        {
-          "title": "S01E03",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514767.mp4"
-        },
-        {
-          "title": "S01E04",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514768.mp4"
-        },
-        {
-          "title": "S01E05",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514769.mp4"
-        },
-        {
-          "title": "S01E06",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514770.mp4"
-        },
-        {
-          "title": "S01E07",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514771.mp4"
-        },
-        {
-          "title": "S01E08",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514772.mp4"
-        },
-        {
-          "title": "S01E09",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514773.mp4"
-        },
-        {
-          "title": "S01E10",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514774.mp4"
-        },
-        {
-          "title": "S01E11",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514775.mp4"
-        },
-        {
-          "title": "S01E12",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514776.mp4"
-        },
-        {
-          "title": "S01E13",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514777.mp4"
-        },
-        {
-          "title": "S01E14",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514778.mp4"
-        },
-        {
-          "title": "S01E15",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514779.mp4"
-        },
-        {
-          "title": "S01E16",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514780.mp4"
-        },
-        {
-          "title": "S01E17",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514781.mp4"
-        },
-        {
-          "title": "S01E18",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514782.mp4"
-        },
-        {
-          "title": "S01E19",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514783.mp4"
-        },
-        {
-          "title": "S01E20",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514784.mp4"
-        },
-        {
-          "title": "S01E21",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514785.mp4"
-        },
-        {
-          "title": "S01E22",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514786.mp4"
-        },
-        {
-          "title": "S01E23",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514787.mp4"
-        },
-        {
-          "title": "S01E24",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514788.mp4"
-        },
-        {
-          "title": "S01E25",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514789.mp4"
-        },
-        {
-          "title": "S01E26",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514790.mp4"
-        },
-        {
-          "title": "S01E27",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514791.mp4"
-        },
-        {
-          "title": "S01E28",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514792.mp4"
-        },
-        {
-          "title": "S01E29",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514793.mp4"
-        },
-        {
-          "title": "S01E30",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514794.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Retro"
-      ]
-    },
-    {
-      "title": "El Infierno de las Mujeres",
-      "image": "http://redworld.pro:8880/images/14f37a7000b6faf72bffba38670fc957.jpg",
-      "rating": 0.0,
-      "category": "hbo",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514373.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Hbo"
-      ]
-    },
-    {
-      "title": "Hola, clase",
-      "image": "http://redworld.pro:8880/images/fcdce99ba384ec7b5c331fbcc23ff7d4.jpg",
-      "rating": 0.0,
-      "category": "netflix",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514374.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514375.mp4"
-        },
-        {
-          "title": "S01E03",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514376.mp4"
-        },
-        {
-          "title": "S01E04",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514377.mp4"
-        },
-        {
-          "title": "S01E05",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514378.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Netflix"
-      ]
-    },
-    {
-      "title": "La luz que aún nos guía",
-      "image": "http://redworld.pro:8880/images/7f1b62707087c0c9a547ebaf56f28a7b.jpg",
-      "rating": 0.0,
-      "category": "netflix",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514379.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514380.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Netflix"
-      ]
-    },
-    {
-      "title": "El asesino de TikTok",
-      "image": "http://redworld.pro:8880/images/b8a57d5fc2a33732e46fdaffe3a16686.jpg",
-      "rating": 0.0,
-      "category": "netflix",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514381.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514382.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Netflix"
-      ]
-    },
-    {
-      "title": "Los dinosaurios",
-      "image": "http://redworld.pro:8880/images/9059e8bfcfadda0b8ebf00253ddbaf7e.jpg",
-      "rating": 0.0,
-      "category": "netflix",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514383.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514384.mp4"
-        },
-        {
-          "title": "S01E03",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514385.mp4"
-        },
-        {
-          "title": "S01E04",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514386.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Netflix"
-      ]
-    },
-    {
-      "title": "Un novio por suscripción",
-      "image": "http://redworld.pro:8880/images/74ce8154a429e7102c3d17574114cbf2.jpg",
-      "rating": 0.0,
-      "category": "netflix",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514387.mp4"
-        },
-        {
-          "title": "S01E02",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514388.mp4"
-        },
-        {
-          "title": "S01E03",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514389.mp4"
-        },
-        {
-          "title": "S01E04",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514390.mp4"
-        },
-        {
-          "title": "S01E05",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514391.mp4"
-        },
-        {
-          "title": "S01E06",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514392.mp4"
-        },
-        {
-          "title": "S01E07",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514393.mp4"
-        },
-        {
-          "title": "S01E08",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514394.mp4"
-        },
-        {
-          "title": "S01E09",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514395.mp4"
-        },
-        {
-          "title": "S01E10",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/514396.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Netflix"
-      ]
-    }
-  ],
-  "eventos": []
-}
-
+          "url": "http://rlati
