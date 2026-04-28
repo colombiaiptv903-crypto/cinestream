@@ -223,19 +223,19 @@
     {
       "name": "Espn 1 (Arg)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://45.5.149.220:8000/play/a03i/index.m3u8",
+      "url": "http://45.5.151.62:8000/play/a00o/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Espn 1 (Chi)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://45.4.1.201:8000/play/a0nc/index.m3u8",
+      "url": "http://190.61.63.140:8000/play/a03z/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Premium (Chi)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
-      "url": "http://45.4.1.201:8000/play/a107/index.m3u8",
+      "url": "http://190.61.63.140:8000/play/a042/index.m3u8",
       "category": "Deportivo"
     },
         {
@@ -580,7 +580,13 @@
     {
       "name": "TNT Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
-      "url": "http://45.5.149.220:8000/play/a03r/index.m3u8",
+      "url": "http://170.244.209.30:8000/play/a1fz/index.m3u8",
+      "category": "Deportivo"
+    }, 
+	    {
+      "name": "TNT Sports Premiun HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
+      "url": "http://170.244.209.30:8000/play/a0hf/index.m3u8",
       "category": "Deportivo"
     }, 
     {      
@@ -1007,7 +1013,7 @@
     {
       "name": "LA KALLE",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/La_Kalle_Colombia_2025_logo.svg/500px-La_Kalle_Colombia_2025_logo.svg.png",
-      "url": "http://190.0.247.38:8000/play/a01z",
+      "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
       "category": "Musica"
     },
     {
