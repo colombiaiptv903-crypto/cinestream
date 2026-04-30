@@ -12,7 +12,6 @@
       "url": "https://liveingesta318.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR",
       "category": "Regional"
     },
-	
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
@@ -36,7 +35,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
       "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
       "category": "Entretenimiento"
-    },	
+    },
     {
       "name": "Señal Colombia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/330px-Se%C3%B1al_Colombia_logo.svg.png",
@@ -55,13 +54,13 @@
       "url": "http://181.78.8.199:8000/play/a0az/index.m3u8",
       "category": "Entretenimiento"
     },
-   { 
+    {
       "name": "RCN Mas",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
       "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
       "category": "Entretenimiento"
     },
-	 {
+    {
       "name": "RCN HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/500px-RCN_HD2_2023.png",
       "url": "http://190.60.49.242:4000/play/a0ph/index.m3u8",
@@ -79,13 +78,12 @@
       "url": "http://45.5.119.43:4000/play/a026/index.m3u8",
       "category": "Entretenimiento"
     },
-	    {
+    {
       "name": "Azteca 7",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=azteca7",
       "category": "Entretenimiento"
     },
-
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
@@ -104,7 +102,6 @@
       "url": "http://181.78.8.199:8000/play/a0ic/index.m3u8",
       "category": "Deportivo"
     },
-
     {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
@@ -129,13 +126,13 @@
       "url": "http://190.92.10.66:4000/play/a006/index.m3u8",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "SKY LA LIGA",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
       "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "L1 MAX",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/500px-L1MAX-LOGO.svg.png",
       "url": "http://38.52.200.181:4000/play/a02g/index.m3u8",
@@ -162,15 +159,15 @@
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2", 
-	  "category": "Deportivo"
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+      "category": "Deportivo"
     },
-     {
+    {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8", 
-	  "category": "Deportivo"
-    },   
+      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
+      "category": "Deportivo"
+    },
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
@@ -182,21 +179,20 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=dsportsplus",
       "category": "Deportivo"
-    },	
-	    {
+    },
+    {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
       "url": "http://nor1live.win:80/livehttpplay?channel_id=23135",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espndeportes",
       "category": "Deportivo"
     },
-
-	{
+    {
       "name": "Espn 1 (MEX)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
       "url": "http://45.5.119.43:4000/play/a052/index.m3u8",
@@ -214,7 +210,7 @@
       "url": "http://181.78.8.199:8000/play/a0b1/index.m3u8",
       "category": "Deportivo"
     },
-	    {
+    {
       "name": "Espn 1 (Col)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
       "url": "http://181.78.14.26:4000/play/a05b/index.m3u8",
@@ -238,7 +234,7 @@
       "url": "http://190.61.63.140:8000/play/a042/index.m3u8",
       "category": "Deportivo"
     },
-        {
+    {
       "name": "ESPN Premium (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
       "url": "http://181.78.7.90:12500/play/a0du/index.m3u8",
@@ -267,8 +263,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
       "url": "http://45.5.119.43:4000/play/a053/index.m3u8",
       "category": "Deportivo"
-    },	
-	
+    },
     {
       "name": "ESPN 3 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
@@ -395,12 +390,12 @@
       "url": "http://45.5.149.220:8000/play/a03o/index.m3u8",
       "category": "Deportivo"
     },
-     {
+    {
       "name": "FOX SPORTS 3",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/500px-Fox_Sports_3_Argentina_2023.svg.png",
       "url": "http://45.5.149.220:8000/play/a03p/index.m3u8",
       "category": "Deportivo"
-    },   
+    },
     {
       "name": "TUDN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/330px-TUDN_Logo.svg.png",
@@ -431,7 +426,6 @@
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=beinsportes",
       "category": "Deportivo"
     },
-
     {
       "name": "Bein Sports Xtra",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",
@@ -444,25 +438,24 @@
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sportv",
       "category": "Deportivo"
     },
-   {
+    {
       "name": "Sport TV 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sportv2",
       "category": "Deportivo"
     },
-   {
+    {
       "name": "Sport TV 3",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1920px-Sport_TV3_%282023%29.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sportv3",
       "category": "Deportivo"
     },
-     
-   {
+    {
       "name": "Claro Sports 1 HD (MX)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/330px-Claro_Sports_logo.svg.png",
       "url": "http://45.189.62.33:8002/play/a0cm/index.m3u8",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Claro Sports 2 HD (MX)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/330px-Claro_Sports_logo.svg.png",
@@ -474,44 +467,44 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png",
       "url": "http://46.149.191.219:9114/play/a003",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Premiere 1",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=premiere1",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Premiere 2",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere2",
       "category": "Deportivo"
     },
-        {
+    {
       "name": "Premiere 3",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere3",
       "category": "Deportivo"
-    },    
+    },
     {
       "name": "Premiere 4",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere4",
       "category": "Deportivo"
     },
-   {
+    {
       "name": "Premiere 5",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere5",
       "category": "Deportivo"
     },
-       {
+    {
       "name": "Premiere 6",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere6",
       "category": "Deportivo"
     },
-       {
+    {
       "name": "Premiere 7",
       "logo": "https://canchatv.online/res/icons/premiere-1.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=premiere7",
@@ -522,14 +515,14 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=azteca_deportes",
       "category": "Deportivo"
-    },	
+    },
     {
       "name": "Sport TV 1 (POR)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=sporttv1",
       "category": "Deportivo"
     },
-	{
+    {
       "name": "ECDF",
       "logo": "https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png",
       "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
@@ -582,20 +575,43 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
       "url": "http://170.244.209.30:8000/play/a1fz/index.m3u8",
       "category": "Deportivo"
-    }, 
-	    {
+    },
+    {
+      "name": "TNT Sports 1",
+      "logo": "https://media.info/l/o/1/1539.1690027797.png",
+      "url": "http://27.124.71.27/TNT_Sports_1/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
+      "name": "TNT Sports 2",
+      "logo": "https://media.info/l/o/1/1540.1690027877.png",
+      "url": "http://27.124.71.27/TNT_Sports_2/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
+      "name": "TNT Sports 3",
+      "logo": "https://media.info/l/o/5/5712.1690027954.png",
+      "url": "http://27.124.71.27/TNT_Sports_3/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
+      "name": "TNT Sports 4",
+      "logo": "https://media.info/l/o/1/1491.1690027975.png",
+      "url": "http://27.124.71.27/TNT_Sports_4/index.m3u8",
+      "category": "Deportivo"
+    },
+    {
       "name": "TNT Sports Premiun HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
       "url": "http://170.244.209.30:8000/play/a0hf/index.m3u8",
       "category": "Deportivo"
-    }, 
-    {      
+    },
+    {
       "name": "NBA TV (US)",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/330px-NBA_TV.svg.png",
       "url": "http://37.46.49.14:18010/play/a03e/index.m3u8",
       "category": "Deportivo"
     },
-  
     {
       "name": "Sky sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
@@ -1165,8 +1181,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/330px-SpaceLogo.svg.png",
       "url": "http://45.5.119.43:4000/play/a0iz/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
-    },	
-	
+    },
     {
       "name": "Star Channel",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/330px-Star_Channel_2020.svg.png",
@@ -1215,13 +1230,12 @@
       "url": "http://181.78.8.199:8000/play/a0ii/index.m3u8",
       "category": "Regional"
     },
-	    {
+    {
       "name": "TELEMUNDO",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/330px-Telemundo_logo_2018.svg.png",
       "url": "http://181.78.8.199:8000/play/a0cg/index.m3u8",
       "category": "Regional"
     },
-	
     {
       "name": "TLC",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/330px-TLC_logo_%282023%29.svg.png",
@@ -1240,7 +1254,7 @@
       "url": "http://181.78.8.199:8000/play/a0bq/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	 {
+    {
       "name": "Tlnovelas",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png",
       "url": "http://45.5.119.43:4000/play/a05k/index.m3u8",
@@ -1288,38 +1302,36 @@
       "url": "http://38.211.118.56:50002/play/a072/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-		{
+    {
       "name": "ZoyTV Plus HD",
       "logo": "https://i.ibb.co/gMx8nF5h/LOGO-Zoy-TV-Plus.png",
       "url": "https://tv.zoymilton.com/ZoyPlus/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	{
+    {
       "name": "ZoyTV Turcas HD",
       "logo": "https://i.ibb.co/TBwL27w8/LOGO-Zoy-TV-Turcas.png",
       "url": "https://tv.zoymilton.com/ZoyTurcas/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	{
+    {
       "name": "ZoyTV Pitufos HD",
       "logo": "https://i.ibb.co/hxzjjS7/favicon.png",
       "url": "https://tv.zoymilton.com/ZoyPitufos/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-		{
+    {
       "name": "ZoyTV Radio HQ",
       "logo": "https://i.ibb.co/hxzjjS7/favicon.png",
       "url": "https://tv.zoymilton.com/ZoyRadio/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	
-	{
+    {
       "name": "Warner Channel",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png",
       "url": "http://181.78.8.199:8000/play/a0ia/index.m3u8",
       "category": "Peliculas, Series, Entretenimiento"
     },
-	
     {
       "name": "Dragon Ball|24/7",
       "logo": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2018/09/dragon_ball_super_16.png?resize=860%2C484&ssl=1",
@@ -1495,7 +1507,7 @@
         "Películas 2022"
       ]
     },
-	{
+    {
       "title": "Interestelar (2014)",
       "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQuuBjG78j4b2r1dFpAjnjbUplv.jpg",
       "rating": 0.0,
@@ -130091,7 +130103,7 @@
         "Telenovelas Top"
       ]
     },
-	 {
+    {
       "title": "El Mentalista",
       "image": "http://redworld.pro:8880/images/110d23b4e91bde0799def3ba3ba8c4d2.jpg",
       "rating": 0.0,
@@ -130195,7 +130207,7 @@
         "Hbo"
       ]
     },
-	 {
+    {
       "title": "Marvel - Daredevil",
       "image": "http://redworld.pro:8880/images/435875c7dabb4f4344bf9b581619710f.jpg",
       "rating": 0.0,
@@ -130398,7 +130410,7 @@
       "genres": [
         "Hbo"
       ]
-    },	
+    },
     {
       "title": "22.11.63",
       "image": "http://redworld.pro:8880/images/960598a2e83bb83d328d00938458b32b.jpg",
@@ -130443,7 +130455,7 @@
         "Ciencia Ficción"
       ]
     },
-	 {
+    {
       "title": "American Dad: Un Agente de Familia",
       "image": "http://redworld.pro:8880/images/be448f16b51b9db854d85f118cf8b6c3.jpg",
       "rating": 0.0,
@@ -197899,7 +197911,6 @@
         "Comedia"
       ]
     },
-    
     {
       "title": "Lo Que La Vida Me Robó",
       "image": "http://redworld.pro:8880/images/0b76504cbfec77520629bb62dd65863b.jpg",
@@ -229064,7 +229075,6 @@
         "Star Plus"
       ]
     },
-   
     {
       "title": "American Horror Story",
       "image": "http://redworld.pro:8880/images/97d895286d0a073407257d5389809482.jpg",
@@ -254525,7 +254535,6 @@
         "Disney"
       ]
     },
-   
     {
       "title": "Daredevil: Born Again",
       "image": "http://redworld.pro:8880/images/63c6ca10abc7176c1c215e378634112a.jpg",
@@ -329158,7 +329167,6 @@
         "Hbo"
       ]
     },
-   
     {
       "title": "El Padrino de Harlem",
       "image": "http://redworld.pro:8880/images/c1e023ced97994f405b83c659512fbee.jpg",
@@ -417203,35 +417211,4 @@
         },
         {
           "title": "S01E07",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/524512.mp4"
-        },
-        {
-          "title": "S01E08",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/524513.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Series Amazon"
-      ]
-    },
-    {
-      "title": "Hombre a medias",
-      "image": "http://redworld.pro:8880/images/4f25d7758c5791c4d7dbe7181bfce868.jpg",
-      "rating": 0.0,
-      "category": "series hbo",
-      "episodes": [
-        {
-          "title": "S01E01",
-          "url": "http://rlatinop.com:8880/series/arturo710745/rUtZwW72tMcj/524515.mp4"
-        }
-      ],
-      "year": 0,
-      "genres": [
-        "Series HBO"
-      ]
-    }
-  ],
-  "eventos": []
-}
-
+          "url": "ht
