@@ -153,7 +153,7 @@
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "http://179.63.6.12:9000/play/a01k",
+      "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
       "category": "Deportivo"
     },
     {
@@ -166,6 +166,12 @@
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
       "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
+      "category": "Deportivo"
+    },
+	    {
+      "name": "Directv Sports 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
+      "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports2",
       "category": "Deportivo"
     },
     {
@@ -183,7 +189,7 @@
     {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "http://nor1live.win:80/livehttpplay?channel_id=23135",
+      "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
       "category": "Deportivo"
     },
     {
