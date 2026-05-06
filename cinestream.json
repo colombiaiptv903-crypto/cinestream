@@ -577,33 +577,45 @@
       "category": "Deportivo"
     },
     {
-      "name": "TNT Sports",
+      "name": "TNT Sports AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
-      "url": "http://170.244.209.30:8000/play/a1fz/index.m3u8",
+      "url": "https://spaceyou.store/v1.php?channel=tntsports",
       "category": "Deportivo"
     },
-    {
-      "name": "TNT Sports 1",
+	    {
+      "name": "TNT Sports AR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
+      "url": "https://spaceyou.store/v3.php?channel=tntsports",
+      "category": "Deportivo"
+    },
+	{
+      "name": "TNT Sports CHILE",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
+      "url": "https://spaceyou.store/v1.php?channel=tntsportschile",
+      "category": "Deportivo"
+    },
+	{
+      "name": "TNT Sports 1 UK",
       "logo": "https://media.info/l/o/1/1539.1690027797.png",
-      "url": "http://27.124.71.27/TNT_Sports_1/index.m3u8",
+      "url": "https://spaceyou.store/v1.php?channel=tnt_1_gb",
       "category": "Deportivo"
     },
     {
-      "name": "TNT Sports 2",
+      "name": "TNT Sports 2 UK",
       "logo": "https://media.info/l/o/1/1540.1690027877.png",
-      "url": "http://27.124.71.27/TNT_Sports_2/index.m3u8",
+      "url": "https://spaceyou.store/v1.php?channel=tnt_2_gb",
       "category": "Deportivo"
     },
     {
-      "name": "TNT Sports 3",
+      "name": "TNT Sports 3 UK",
       "logo": "https://media.info/l/o/5/5712.1690027954.png",
-      "url": "http://27.124.71.27/TNT_Sports_3/index.m3u8",
+      "url": "https://spaceyou.store/v1.php?channel=tnt_3_gb",
       "category": "Deportivo"
     },
     {
-      "name": "TNT Sports 4",
+      "name": "TNT Sports 4 UK",
       "logo": "https://media.info/l/o/1/1491.1690027975.png",
-      "url": "http://27.124.71.27/TNT_Sports_4/index.m3u8",
+      "url": "https://spaceyou.store/v1.php?channel=tnt_4_gb",
       "category": "Deportivo"
     },
     {
