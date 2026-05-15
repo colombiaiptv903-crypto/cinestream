@@ -243,7 +243,7 @@
     {
       "name": "ESPN Premium (Arg)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/500px-ESPN_Premium_logo.svg.png",
-      "url": "https://streamtp-abc.net/global1.php?stream=espnpremium",
+      "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
       "category": "Deportivo"
     },
     {
@@ -393,7 +393,7 @@
     {
       "name": "FOX SPORTS 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png",
-      "url": "https://streamtp-abc.net/global1.php?stream=fox2ar",
+      "url": "https://tvtvhd.com/vivo/canales.php?stream=foxsports2",
       "category": "Deportivo"
     },
     {
@@ -427,7 +427,7 @@
       "category": "Deportivo"
     },
     {
-      "name": "Bein Sport",
+      "name": "Bein Sport Español",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=beinsportes",
       "category": "Deportivo"
@@ -579,19 +579,13 @@
     {
       "name": "TNT Sports AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
-      "url": "https://spaceyou.store/v1.php?channel=tntsports",
-      "category": "Deportivo"
-    },
-	    {
-      "name": "TNT Sports AR",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
-      "url": "https://spaceyou.store/v3.php?channel=tntsports",
+      "url": "https://tvtvhd.com/vivo/canales.php?stream=tntsports",
       "category": "Deportivo"
     },
 	{
       "name": "TNT Sports CHILE",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
-      "url": "https://spaceyou.store/v1.php?channel=tntsportschile",
+      "url": "http://38.7.101.90:8000/play/a1yo/index.m3u8",
       "category": "Deportivo"
     },
 	{
@@ -694,12 +688,6 @@
       "name": "TVC Deportes HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png",
       "url": "http://200.229.147.142:8000/play/a05g/index.m3u8",
-      "category": "Deportivo"
-    },
-    {
-      "name": "TNT Sports",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/500px-TNT_Sports_Premium_%28Argentina%29.png",
-      "url": "https://streamtp-abc.net/global1.php?stream=tntsports",
       "category": "Deportivo"
     },
     {
