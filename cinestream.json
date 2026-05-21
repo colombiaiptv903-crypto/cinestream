@@ -15,7 +15,7 @@
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "http://181.78.8.199:8000/play/a0b0/index.m3u8",
+      "url": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=fzRuzCn8TZ8UwPYDZUt3UxMev9ziRdRp&sid=ZPVA0exZYaCglFBZuV6ZVuuUMpmIr9cl&pid=jVUcZurWx7eUMUW6jrgMqiZrXXZVOKQ8&pid_dvr=RrIGju1o8Lv3uNSqKgVmxyAEf8QYKvli&an=screen&at=web-app&av=v7.0.42&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=877x494&without_cookies=false&listenerid=&dnt=true&access_token=rPsUAekmfElJHhKZbCnW1fR7MrzWl76i8IWz1bSgfwHpirMtq9uQfqiF3MfC5kpe4ZIjJ88gQ3R&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22jVUcZurWx7eUMUW6jrgMqiZrXXZVOKQ8%22%2Csu",
       "category": "Entretenimiento"
     },
     {
@@ -31,11 +31,12 @@
       "category": "Entretenimiento"
     },
     {
-      "name": "Caracol Sport",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/99/CaracolSports.png",
-      "url": "https://mdstrm.com/live-stream-playlist/58d1af11b6318eec59278b18.m3u8?uid=2PuXm4G8KGsfKQP66KiE8VqvscjIkxMT&sid=lx56NUXo8FOo2FoB4c3lR5TCQMnO4mGd&pid=27YdGKZ9EbriTDgSJ8ytBV34LBnuiG9M&pid_dvr=Oh7Hz9wyXkUGqLsgJotwgbLWd7J5lYNZ&an=screen&at=web-app&av=v7.0.42&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=1244x700&without_cookies=false&listenerid=&dnt=true&access_token=CMuqmk7BOE29IMygLsKR8dXQinbsrtVoGS0t830VfuMxjVzkJkHVjFgP7ng4JFnBV0ZPoYzOg1o&CMCD=cid%3D%2258d1af11b6318eec59278b18%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2227YdGKZ9EbriTDgSJ8ytBV34LBnuiG9M%22%2Csu",
-      "category": "Entretenimiento"
+      "name": "Caracol Noticias",
+      "logo": "https://caracoltv.brightspotcdn.com/dims4/default/f2b33dd/2147483647/strip/true/crop/36x38+0+0/resize/72x76!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2Fb9%2F4f55d6b2448abd0fafdfc39d3145%2Flogos.png",
+      "url": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=fzRuzCn8TZ8UwPYDZUt3UxMev9ziRdRp&sid=ZPVA0exZYaCglFBZuV6ZVuuUMpmIr9cl&pid=jVUcZurWx7eUMUW6jrgMqiZrXXZVOKQ8&pid_dvr=RrIGju1o8Lv3uNSqKgVmxyAEf8QYKvli&an=screen&at=web-app&av=v7.0.42&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=877x494&without_cookies=false&listenerid=&dnt=true&access_token=rPsUAekmfElJHhKZbCnW1fR7MrzWl76i8IWz1bSgfwHpirMtq9uQfqiF3MfC5kpe4ZIjJ88gQ3R&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22jVUcZurWx7eUMUW6jrgMqiZrXXZVOKQ8%22%2Csu",
+      "category": "Noticias"
     },
+
     {
       "name": "Señal Colombia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/330px-Se%C3%B1al_Colombia_logo.svg.png",
@@ -73,9 +74,9 @@
       "category": "Entretenimiento"
     },
     {
-      "name": "Azteca 7 SD",
+      "name": "Azteca 7",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png",
-      "url": "http://45.5.119.43:4000/play/a026/index.m3u8",
+      "url": "https://spaceyou.store/v3.php?channel=azteca7",
       "category": "Entretenimiento"
     },
     {
@@ -123,7 +124,7 @@
     {
       "name": "SKY BUNDESLIGA",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
-      "url": "https://dlhd.pk/stream/stream-60.php",
+      "url": "https://spaceyou.store/v3.php?channel=sky_bundesliga_mx",
       "category": "Deportivo"
     },
     {
@@ -183,31 +184,25 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=dsportsplus",
+      "url": "httphttps://spaceyou.store/v3.php?channel=dsportsplus",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "https://gollibre.com/en-vivo-online/dsports-plus/embed.php",
+      "url": "https:\/\/tvtvhd.com\/vivo\/canales.php?stream=dsportsplus",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "https://gollibre.com/en-vivo-online/espn-deportes/embed.php",
+      "url": "https:\/\/tvtvhd.com\/vivo\/canales.php?stream=espndeportes",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espndeportes",
-      "category": "Deportivo"
-    },
-    {
-      "name": "ESPN Deportes HD",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "https://gollibre.com/en-vivo-online/espn-deportes/embed.php",
       "category": "Deportivo"
     },
     {
