@@ -31,9 +31,9 @@
       "category": "Entretenimiento"
     },
     {
-      "name": "Caracol HD2 TDT",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "https://www.chatytvgratishd.me/canal.php?id=caracol",
+      "name": "Caracol Sport",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/99/CaracolSports.png",
+      "url": "https://mdstrm.com/live-stream-playlist/58d1af11b6318eec59278b18.m3u8?uid=2PuXm4G8KGsfKQP66KiE8VqvscjIkxMT&sid=lx56NUXo8FOo2FoB4c3lR5TCQMnO4mGd&pid=27YdGKZ9EbriTDgSJ8ytBV34LBnuiG9M&pid_dvr=Oh7Hz9wyXkUGqLsgJotwgbLWd7J5lYNZ&an=screen&at=web-app&av=v7.0.42&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=1244x700&without_cookies=false&listenerid=&dnt=true&access_token=CMuqmk7BOE29IMygLsKR8dXQinbsrtVoGS0t830VfuMxjVzkJkHVjFgP7ng4JFnBV0ZPoYzOg1o&CMCD=cid%3D%2258d1af11b6318eec59278b18%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2227YdGKZ9EbriTDgSJ8ytBV34LBnuiG9M%22%2Csu",
       "category": "Entretenimiento"
     },
     {
@@ -123,7 +123,7 @@
     {
       "name": "SKY BUNDESLIGA",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png",
-      "url": "http://190.92.10.66:4000/play/a006/index.m3u8",
+      "url": "https://dlhd.pk/stream/stream-60.php",
       "category": "Deportivo"
     },
     {
@@ -187,15 +187,27 @@
       "category": "Deportivo"
     },
     {
+      "name": "Directv Sports +",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
+      "url": "https://gollibre.com/en-vivo-online/dsports-plus/embed.php",
+      "category": "Deportivo"
+    },
+    {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+      "url": "https://gollibre.com/en-vivo-online/espn-deportes/embed.php",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
       "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espndeportes",
+      "category": "Deportivo"
+    },
+    {
+      "name": "ESPN Deportes HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
+      "url": "https://gollibre.com/en-vivo-online/espn-deportes/embed.php",
       "category": "Deportivo"
     },
     {
@@ -207,7 +219,7 @@
     {
       "name": "Espn 1",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "https:\/\/la14hd.com\/vivo\/canales.php?stream=espn",
+      "url": "https://gollibre.com/en-vivo-online/espn/embed2.php",
       "category": "Deportivo"
     },
     {
