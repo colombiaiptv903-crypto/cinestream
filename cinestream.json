@@ -60,13 +60,13 @@
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://138.94.3.106:8000/play/a079/index.m3u8",
+      "url": "http://186.33.54.46:8000/play/a04j/index.m3u8",
       "category": "Entretenimiento"
     },
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://138.94.3.106:8000/play/a003/index.m3u8",
+      "url": "http://138.94.3.106:8000/play/a079/index.m3u8",
       "category": "Entretenimiento"
     },
 
@@ -85,7 +85,7 @@
     {
       "name": "RCN Novelas ",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/330px-RCN_Novelas_logo_2019.png",
-      "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+      "url": "http://181.78.192.238:8000/play/a1r0/index.m3u8",
       "category": "Entretenimiento"
     },
     {
