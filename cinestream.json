@@ -21,7 +21,7 @@
 {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=fzRuzCn8TZ8UwPYDZUt3UxMev9ziRdRp&sid=ZPVA0exZYaCglFBZuV6ZVuuUMpmIr9cl&pid=jVUcZurWx7eUMUW6jrgMqiZrXXZVOKQ8&pid_dvr=RrIGju1o8Lv3uNSqKgVmxyAEf8QYKvli&an=screen&at=web-app&av=v7.0.42&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=877x494&without_cookies=false&listenerid=&dnt=true&access_token=rPsUAekmfElJHhKZbCnW1fR7MrzWl76i8IWz1bSgfwHpirMtq9uQfqiF3MfC5kpe4ZIjJ88gQ3R&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22jVUcZurWx7eUMUW6jrgMqiZrXXZVOKQ8%22%2Csu",
+      "url": "http://181.78.8.199:8000/play/a0b0/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -60,7 +60,7 @@
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://181.78.8.199:8000/play/a0az/index.m3u8",
+      "url": "http://181.78.8.199:8000/play/a09l/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -843,6 +843,13 @@
       "url": "http://181.78.8.199:8000/play/a09f/index.m3u8",
       "category": "Infantil"
     },
+    {
+      "name": "CHV Noticias",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
+      "url": "https://rudo.video/live/chvn",
+      "category": "Noticias"
+    },
+
     {
       "name": "Cinecanal",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/330px-CinecanalLA.png",
