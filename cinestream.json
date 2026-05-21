@@ -79,7 +79,7 @@
     {
       "name": "RCN HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/500px-RCN_HD2_2023.png",
-      "url": "http://190.60.49.242:4000/play/a0ph/index.m3u8",
+      "url": "http://190.60.39.219:8000/play/a009/index.m3u8",
       "category": "entretenimiento"
     },
     {
