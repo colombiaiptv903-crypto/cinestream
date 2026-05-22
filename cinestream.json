@@ -30,22 +30,7 @@
       "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
       "category": "Entretenimiento"
     },
-    {
-      "name": "Caracol HD2 TDT",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "https://hls.tdtcloud.xyz/hls/carsd2/index.m3u8?token=jNt9sDNXtiKrjfgVCF_EoQ&expires=1779396115",
-      "category": "Entretenimiento"
-    },
-
-
-    {
-      "name": "Caracol Noticias",
-      "logo": "https://caracoltv.brightspotcdn.com/dims4/default/f2b33dd/2147483647/strip/true/crop/36x38+0+0/resize/72x76!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F87%2Fb9%2F4f55d6b2448abd0fafdfc39d3145%2Flogos.png",
-      "url": "https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream-gdai/632391734be92a791e2750e6/linear/hls/pa/event/AImtl9u6QA2hQXyM7DGbwg/stream/b03c3ba7-bc4f-4e8c-bc4b-bc094baeaa53:DLS/master.m3u8?aid=589b13f631f1bebd088ff753&uid=fzRuzCn8TZ8UwPYDZUt3UxMev9ziRdRp&sid=ZPVA0exZYaCglFBZuV6ZVuuUMpmIr9cl&pid=q8Ta5sf5maxkybumLlCBl5NLzn5nE8o9&pid_dvr=YYdkMWvYaTvMrJ5msLL92mZkKg7YJM4S&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=02qW1AJT4LybVfyEY4CCL0vRhsXzdbLP0xvSMnfXFJwEYifcKZgC2LHg4FOc7IWyMOO92IchRLk&CMCD=cid%3D%22632391734be92a791e2750e6%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22q8Ta5sf5maxkybumLlCBl5NLzn5nE8o9%22%2Csu&adInsertionGoogleStreamId=b03c3ba7-bc4f-4e8c-bc4b-bc094baeaa53%3ADLS&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1779467440178&ot=dHzem8SUjiXM2I1tHUZmow&proto=https&pz=us",
-      "category": "Noticias"
-    },
-
-    {
+   {
       "name": "Señal Colombia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/330px-Se%C3%B1al_Colombia_logo.svg.png",
       "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
@@ -778,6 +763,19 @@
       "url": "http://38.250.229.23:8000/play/a0ps",
       "category": "Peliculas, Series, Entretenimiento"
     },
+    {
+      "name": "La Nube",
+      "logo": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/blob/main/Captura%20de%20pantalla%202026-05-22%20115142%20(1).png",
+      "url": "http://200.63.107.94:8000/play/a02t/index.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "La Nube",
+      "logo": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/blob/main/Captura%20de%20pantalla%202026-05-22%20120009.png",
+      "url": "http://200.63.107.94:8000/play/a02i/index.m3u8",
+      "category": "Peliculas, Series, Entretenimiento"
+    },
+
     {
       "name": "ATLAS",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Atlas_TV.png/837px-Atlas_TV.png",
