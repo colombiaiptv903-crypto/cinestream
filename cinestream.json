@@ -31,6 +31,13 @@
       "category": "Entretenimiento"
     },
     {
+      "name": "Caracol HD2 TDT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
+      "url": "https://www.chatytvgratishd.me/canal.php?id=caracol",
+      "category": "Entretenimiento"
+    },
+
+    {
       "name": "Señal Colombia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/330px-Se%C3%B1al_Colombia_logo.svg.png",
       "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
@@ -99,7 +106,7 @@
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a0ic/index.m3u8",
+      "url": "://181.78.67.171:8000/play/a0wy/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -111,7 +118,7 @@
     {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "http://138.186.20.22:8000/play/a04z/index.m3u8",
+      "url": "http://152.231.29.139:8000/play/a0jd/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -183,7 +190,7 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "httphttps://spaceyou.store/v3.php?channel=dsportsplus",
+      "url": "https://spaceyou.store/v3.php?channel=dsportsplus",
       "category": "Deportivo"
     },
     {
@@ -237,7 +244,7 @@
     {
       "name": "Espn 1 (Chi)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://190.61.63.140:8000/play/a03z/index.m3u8",
+      "url": "http://38.224.22.252:8000/play/a0bn/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -666,6 +673,14 @@
       "url": "http://miotv.cc:8080/live/Tino/Tino/154589.ts",
       "category": "Deportivo"
     },
+    {
+      "name": "DAZN COMBAT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png",
+      "url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
+      "category": "Deportivo"
+    },
+
+
     {
       "name": "ESPN 1 NL",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png",
