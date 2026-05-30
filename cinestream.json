@@ -3,7 +3,7 @@
     {
       "name": "Telecaribe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Telecaribe_%28nuevo_logo_con_color%29.png/500px-Telecaribe_%28nuevo_logo_con_color%29.png",
-      "url": "http://181.78.8.199:8000/play/a0df/index.m3u8",
+      "url": "http://190.60.57.58:8000/play/a014/index.m3u8",
       "category": "Regional"
     },
     {
@@ -27,13 +27,13 @@
     {
       "name": "Caracol HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+      "url": "http://astra.fibernetisp.com.co/play/a0e2/index.m3u8",
       "category": "Entretenimiento"
     },
     {
       "name": "Caracol HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "https://www.chatytvgratishd.me/canal.php?id=caracol",
+      "url": "http://190.60.57.58:8000/play/a15c/index.m3u8",
       "category": "Entretenimiento"
     },
 
@@ -52,7 +52,7 @@
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://190.60.54.158:8000/play/a0c4/index.m3u8",
+      "url": "http://190.60.57.58:8000/play/a16p/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -70,9 +70,16 @@
     {
       "name": "RCN HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/500px-RCN_HD2_2023.png",
+      "url": "http://astra.fibernetisp.com.co/play/a0e3/index.m3u8",
+      "category": "entretenimiento"
+    },
+    {
+      "name": "RCN HD2 TDT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/500px-RCN_HD2_2023.png",
       "url": "http://190.60.57.58:8000/play/a0hw/index.m3u8",
       "category": "entretenimiento"
     },
+
     {
       "name": "RCN Novelas ",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/330px-RCN_Novelas_logo_2019.png",
@@ -82,7 +89,7 @@
     {
       "name": "Cabletelco HD",
       "logo": "https://scontent.fclo8-1.fna.fbcdn.net/v/t39.30808-6/277573125_383086503824051_7388203563499097753_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NGPkTB57Q8AQ7kNvwHl1dTx&_nc_oc=AdrcUY_xIktAfpp3Jql4b10ePlV2zaCM07TcTqLshWJUQ-qCwyEY09klw8jR07pbTcg&_nc_zt=23&_nc_ht=scontent.fclo8-1.fna&_nc_gid=1qe5Ba34Y4rnRk3WPb13FQ&_nc_ss=7e289&oh=00_Af4qDO1N6pLq40gXs-PzT1ux2LV9JkppNWCRa2hOJ0OvnA&oe=6A1F8B49",
-      "url": "https://new.opencaster.com/player/embed?user=canalchd2025m",
+      "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -226,13 +233,13 @@
     {
       "name": "Espn 1",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://45.70.201.81:8000/play/a001/index.m3u8",
+      "url": "http://liontv.es:80/live/NESTORCHI/GRETF/338231.ts",
       "category": "Deportivo"
     },
     {
       "name": "Espn 1 (Col)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://181.78.8.199:8000/play/a0b1/index.m3u8",
+      "url": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts",
       "category": "Deportivo"
     },
     {
