@@ -9,7 +9,7 @@
     {
       "name": "Telecaribe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Telecaribe_%28nuevo_logo_con_color%29.png/500px-Telecaribe_%28nuevo_logo_con_color%29.png",
-      "url": "https://liveingesta318.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR",
+      "url": "https://player.instantvideocloud.net/?autoplay=true#/embed/180720d1",
       "category": "Regional"
     },
     {
@@ -58,7 +58,7 @@
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://138.94.3.106:8000/play/a079/index.m3u8",
+      "url": "http://zeustv.vip:8080/live/7mgg284/87654532/1176556.ts",
       "category": "Entretenimiento"
     },
     {
@@ -75,6 +75,7 @@
     },
     {
       "name": "RCN HD2 TDT",
+
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/500px-RCN_HD2_2023.png",
       "url": "http://190.60.57.58:8000/play/a0hw/index.m3u8",
       "category": "entretenimiento"
