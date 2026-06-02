@@ -15,7 +15,7 @@
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "http://181.78.8.199:8000/play/a0aw/index.m3u8",
+      "url": "http://190.60.57.58:8000/play/a16r/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -1208,19 +1208,19 @@
     {
       "name": "MUSICA REGUETON",
       "logo": "https://image.roku.com/developer_channels/prod/d1aa951c15a8e3b7290cd16188bc65d1559ae3e638e2dca2c59449e293a82977.png",
-      "url": "http://190.60.49.242:4000/play/a0i1/index.m3u8",
+      "url": "http://181.78.14.26:4000/play/a06p/index.m3u8",
       "category": "Musica"
     },
     {
       "name": "MUSICA ROMANTICA",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH8mKW7k44bn2-DwgRZoFRhRxGXRpcXSr5iw&s",
-      "url": "http://190.60.49.242:4000/play/a0i0/index.m3u8",
+      "url": "http://181.78.14.26:4000/play/a06s/index.m3u8",
       "category": "Musica"
     },
     {
       "name": "MUSICA SALSA",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf2mwJIABqSWCrNKKE532YSssvkCNnAYGXg&s",
-      "url": "http://190.60.49.242:4000/play/a086/index.m3u8",
+      "url": "http://181.78.14.26:4000/play/a06r/index.m3u8",
       "category": "Musica"
     },
     {
