@@ -15,13 +15,13 @@
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "http://190.60.39.221:8000/play/a00b/index.m3u8",
+      "url": "http://138.94.3.106:8000/play/a04w/index.m3u8",
       "category": "Entretenimiento"
     },
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "http://181.78.14.26:4000/play/a02r/index.m3u8",
+      "url": "http://138.94.3.106:8000/play/a02u/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -52,13 +52,13 @@
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://190.60.57.58:8000/play/a16p/index.m3u8",
+      "url": "http://138.94.3.106:8000/play/a079/index.m3u8",
       "category": "Entretenimiento"
     },
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://zeustv.vip:8080/live/7mgg284/87654532/1176556.ts",
+      "url": "http://138.94.3.106:8000/play/a003/index.m3u8",
       "category": "Entretenimiento"
     },
     {
