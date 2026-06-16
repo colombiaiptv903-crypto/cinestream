@@ -27,7 +27,7 @@
     {
       "name": "Caracol HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0e2/index.m3u8",
+      "url": "http://190.242.59.52:8000/play/a05u/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -108,13 +108,13 @@
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
+      "url": "http://181.78.8.199:8000/play/a0cc/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.21.38:8000/play/a07l/index.m3u8",
+      "url": "http://181.78.8.199:8000/play/a06v/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -132,13 +132,13 @@
     {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "http://152.231.29.139:8000/play/a0je/index.m3u8",
+      "url": "http://186.148.184.22:8000/play/a0ih/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Win Sports + ",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "http://138.186.20.20:8000/play/a04z/index.m3u8",
+      "url": "http://181.78.21.38:8000/play/a07l/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -162,25 +162,25 @@
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+      "url": "http://190.61.41.181:8000/play/a0r5/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/52452.ts",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/47580.ts",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -198,7 +198,7 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "https://streamtpday1.xyz/global1.php?stream=dsportsplus",
+      "url": "http://190.61.41.181:8000/play/a0r3/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -210,7 +210,7 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "https://tvtvhd.com/vivo/canales.php?stream=dsportsplus",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/130533.ts",
       "category": "Deportivo"
     },
     {
