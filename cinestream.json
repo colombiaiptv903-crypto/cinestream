@@ -186,13 +186,13 @@
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/37484.ts",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports2",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/31760.ts",
       "category": "Deportivo"
     },
     {
@@ -210,7 +210,7 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/130533.ts",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/32680.ts",
       "category": "Deportivo"
     },
     {
@@ -222,7 +222,7 @@
     {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/130533.ts",
       "category": "Deportivo"
     },
     {
@@ -234,13 +234,13 @@
     {
       "name": "Espn 1",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "https://streamtpday1.xyz/global1.php?stream=espn",
+      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/7023.ts",
       "category": "Deportivo"
     },
     {
       "name": "Espn 1 (Col)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://181.78.14.26:4000/play/a009/index.m3u8",
+      "url": "https://streamtpday1.xyz/global1.php?stream=espn",
       "category": "Deportivo"
     },
     {
