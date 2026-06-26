@@ -3,19 +3,19 @@
     {
       "name": "Telecaribe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Telecaribe_%28nuevo_logo_con_color%29.png/500px-Telecaribe_%28nuevo_logo_con_color%29.png",
-      "url": "http://190.60.39.221:8000/play/a08c/index.m3u8",
+      "url": "https://player.instantvideocloud.net/?autoplay=true#/embed/7b249b9d",
       "category": "Regional"
     },
     {
       "name": "Telecaribe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Telecaribe_%28nuevo_logo_con_color%29.png/500px-Telecaribe_%28nuevo_logo_con_color%29.png",
-      "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR",
+      "url": "https://player.instantvideocloud.net/?autoplay=true#/embed/180720d1",
       "category": "Regional"
     },
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "https://pelisjuanita.com/tv/jwplayer.php?id=Caracol%20TV%20Internacional",
+      "url": "http://181.78.14.26:4000/play/a02r/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Caracol HD2 TDT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CaracolHD2-2025.png/330px-CaracolHD2-2025.png",
-      "url": "http://190.60.59.60:8000/play/a0uv/index.m3u8",
+      "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "Azteca 7",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png",
-      "url": "https://la18hd.com/vivo/canales.php?stream=azteca7",
+      "url": "https://gollibre.com/mpd2.php?id=azteca7",
       "category": "Entretenimiento"
     },
     {
@@ -165,7 +165,7 @@
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "http://stkip.ddns.me:2082/live/Manueltra/TkdxG29KnjUC/52452.ts",
+      "url": "https://embed.ksdjugfsddeports.com/embed2/directvsports.html",
       "category": "Deportivo"
     },
     {
