@@ -3,7 +3,7 @@
     {
       "name": "Telecaribe",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Telecaribe_%28nuevo_logo_con_color%29.png/500px-Telecaribe_%28nuevo_logo_con_color%29.png",
-      "url": "https://player.instantvideocloud.net/?autoplay=true#/embed/7b249b9d",
+      "url": "http://181.78.14.26:4000/play/a01z/index.m3u8",
       "category": "Regional"
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "http://138.94.3.106:8000/play/a05u/index.m3u8",
+      "url": "http://190.60.49.242:4000/play/a0pt/index.m3u8",
       "category": "Entretenimiento"
     },
     {
