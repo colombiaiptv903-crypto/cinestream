@@ -21,7 +21,7 @@
     {
       "name": "Caracol",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/330px-CaracolTV2025.png",
-      "url": "https://mdstrm.com/live-stream/574463697b9817cf0886fc17?jsapi=true&autoplay=true&access_token=C1spMeO91gfZbxdL19koidVtswTZqqDu5UVHjTYaYpD6x3gmrlWjVDeA3SmoUlV2SOEOhKvw3dy&controls_bar[showFullscreen]=true",
+      "url": "http://138.186.20.18:8000/play/a035/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -51,7 +51,7 @@
     {
       "name": "RCN",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8",
+      "url": "http://138.186.20.18:8000/play/a034/index.m3u8",
       "category": "Entretenimiento"
     },
     {
@@ -105,25 +105,25 @@
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8?hls",
+      "url": "http://181.78.67.171:8000/play/a0wy/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://181.78.8.199:8000/play/a06v/index.m3u8",
+      "url": "http://181.78.67.171:8000/play/a0iq/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/330px-Win_Sports_nuevo_logo.svg.png",
-      "url": "http://138.94.3.106:8000/play/a04n/index.m3u8",
+      "url": "http://170.244.209.30:8000/play/a1fn/index.m3u8",
       "category": "Deportivo"
     },
     {
       "name": "Win Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/330px-Win%2B_F%C3%BAtbol_logo.svg.png",
-      "url": "https://la18hd.com/vivo/canales.php?stream=winsports2",
+      "url": "http://138.186.20.18:8000/play/a04z/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -159,13 +159,13 @@
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "http://190.61.41.181:8000/play/a0r5/index.m3u8",
+      "url": "https://spaceyou.store/v1.php?channel=dsports",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/500px-DSports.png",
-      "url": "http://181.119.93.83:8000/play/a184/index.m3u8",
+      "url": "https://spaceyou.store/v3.php?channel=dsports",
       "category": "Deportivo"
     },
     {
@@ -177,19 +177,13 @@
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
+      "url": "https://spaceyou.store/v3.php?channel=dsports2",
       "category": "Deportivo"
     },
     {
       "name": "Directv Sports 2",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
       "url": "http://181.119.93.83:8000/play/a185/index.m3u8",
-      "category": "Deportivo"
-    },
-    {
-      "name": "Directv Sports 2",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/500px-DSports2.png",
-      "url": "https://la18hd.com/vivo/canales.php?stream=dsports2",
       "category": "Deportivo"
     },
     {
@@ -201,7 +195,7 @@
     {
       "name": "Directv Sports +",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/500px-DSportsM%C3%A1s.png",
-      "url": "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
+      "url": "https://streamhdx.com/live1.php?stream=dsportsplus",
       "category": "Deportivo"
     },
     {
@@ -213,13 +207,13 @@
     {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
+      "url": "https://streamhdx.com/live1.php?stream=espndeportes",
       "category": "Deportivo"
     },
     {
       "name": "ESPN Deportes",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png",
-      "url": "https://gollibre.com/en-vivo-online/espn-deportes/embed.php",
+      "url": "https://spaceyou.store/v1.php?channel=espndeportes",
       "category": "Deportivo"
     },
     {
@@ -237,13 +231,13 @@
     {
       "name": "Espn 1 (Col)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "https://streamtpday1.xyz/global1.php?stream=espn",
+      "url": "https://streamhdx.com/live1.php?stream=espnco",
       "category": "Deportivo"
     },
     {
       "name": "Espn 1 (Col)",
       "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0a9/index.m3u8",
+      "url": "http://181.78.0.156:8000/play/a04t/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -273,7 +267,7 @@
     {
       "name": "ESPN 2 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8",
+      "url": "http://181.78.0.156:8000/play/a00m/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -297,7 +291,7 @@
     {
       "name": "ESPN 3 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/330px-ESPN3_Logo.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0jc/index.m3u8",
+      "url": "http://181.78.0.156:8000/play/a00n/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -321,7 +315,7 @@
     {
       "name": "ESPN 4 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0it/index.m3u8",
+      "url": "http://181.78.0.156:8000/play/a00j/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -345,7 +339,7 @@
     {
       "name": "ESPN 5 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/330px-ESPN_5_logo.svg.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0id/index.m3u8",
+      "url": "http://181.78.0.156:8000/play/a02a/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -369,7 +363,7 @@
     {
       "name": "ESPN 6 (Col)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0ae/index.m3u8",
+      "url": "http://181.78.0.156:8000/play/a01s/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -393,7 +387,7 @@
     {
       "name": "ESPN 7 (COL)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",
-      "url": "http://astra.fibernetisp.com.co/play/a0ad/index.m3u8",
+      "url": "http://181.78.0.156:8000/play/a00k/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -639,7 +633,7 @@
     {
       "name": "TNT Sports Premiun HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png",
-      "url": "http://170.244.209.30:8000/play/a0hf/index.m3u8",
+      "url": "http://181.78.67.171:8000/play/a0wu/index.m3u8",
       "category": "Deportivo"
     },
     {
@@ -789,7 +783,7 @@
     {
       "name": "ATLAS",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Atlas_TV.png/837px-Atlas_TV.png",
-      "url": "http://190.60.49.242:4000/play/a089/index.m3u8",
+      "url": "http://181.78.67.171:8000/play/a0xm/index.m3u8",
       "category": "Documentales, Naturaleza, Entretenimiento"
     },
     {
@@ -1218,7 +1212,13 @@
       "url": "http://181.78.14.26:4000/play/a06r/index.m3u8",
       "category": "Musica"
     },
-    {
+	   {
+      "name": "RUMBA TV",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8f/RumbaTV.jpg/revision/latest?cb=20210517025153&path-prefix=es",
+      "url": "http://181.78.67.171:8000/play/a0iv/index.m3u8",
+      "category": "Musica"
+    },
+	    {
       "name": "Sony Entertainment Television",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sony_Entertainment_Television_logo.png/250px-Sony_Entertainment_Television_logo.png",
       "url": "http://181.78.8.199:8000/play/a0e6/index.m3u8",
